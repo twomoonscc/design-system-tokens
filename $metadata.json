@@ -1,0 +1,16 @@
+{
+  "tokenSetOrder": [
+    "Foundation",
+    "tailwind-primitives (don't use)",
+    "Theme config: Base"
+  ],
+  "activeThemes": [
+    "Always enabled/Global",
+    "Tailwind Config/Vanilla Tailwind"
+  ],
+  "activeSets": [
+    "Theme config: Base",
+    "tailwind-primitives (don't use)",
+    "Foundation"
+  ]
+}
