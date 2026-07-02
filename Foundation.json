@@ -481,7 +481,7 @@
         "$description": "line-height: 1.625"
       },
       "normal": {
-        "$value": "{_text.leading.normal} * {affine-transform.leading.scaling} + {affine-transform.leading.offset}",
+        "$value": "({_text.leading.normal} * {affine-transform.leading.scaling} + {affine-transform.leading.offset}) * 100%",
         "$type": "dimension",
         "$description": "line-height: 1.5"
       },
