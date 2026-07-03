@@ -10,7 +10,8 @@
       "Foundation": "enabled",
       "Theme config: Base": "enabled",
       "typography": "enabled",
-      "custom-text": "enabled"
+      "custom-text": "enabled",
+      "custom-colors": "enabled"
     }
   },
   {

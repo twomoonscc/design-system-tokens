@@ -4,7 +4,8 @@
     "tailwind-primitives",
     "Theme config: Base",
     "typography",
-    "custom-text"
+    "custom-text",
+    "custom-colors"
   ],
   "activeThemes": [
     "Always enabled/Global"
@@ -14,6 +15,7 @@
     "Foundation",
     "Theme config: Base",
     "typography",
-    "custom-text"
+    "custom-text",
+    "custom-colors"
   ]
 }

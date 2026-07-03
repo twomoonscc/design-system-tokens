@@ -1,136 +1,156 @@
 {
   "color": {
-    "brand": {
-      "primary": {
-        "$type": "color",
-        "$value": "{_colors.blue.600}",
-        "_comment": "Maps to #2563eb"
-      },
-      "primary-hover": {
-        "$type": "color",
-        "$value": "{_colors.blue.700}",
-        "_comment": "Maps to #1d4ed8"
-      },
-      "secondary": {
-        "$type": "color",
-        "$value": "{_colors.slate.800}",
-        "_comment": "Maps to #1e293b"
-      }
-    },
     "accent": {
       "one": {
-        "default": {
+        "strong": {
+          "$value": "{_colors.purple.800}",
           "$type": "color",
-          "$value": "{_colors.purple.600}"
+          "$description": ""
         },
         "subtle": {
+          "$value": "{_colors.purple.100}",
           "$type": "color",
-          "$value": "{_colors.purple.100}"
+          "$description": ""
         },
-        "strong": {
+        "default": {
+          "$value": "{_colors.purple.600}",
           "$type": "color",
-          "$value": "{_colors.purple.800}"
+          "$description": ""
         }
       },
       "two": {
-        "default": {
+        "strong": {
+          "$value": "{_colors.orange.700}",
           "$type": "color",
-          "$value": "{_colors.orange.500}"
+          "$description": ""
         },
         "subtle": {
+          "$value": "{_colors.orange.100}",
           "$type": "color",
-          "$value": "{_colors.orange.100}"
+          "$description": ""
         },
-        "strong": {
+        "default": {
+          "$value": "{_colors.orange.500}",
           "$type": "color",
-          "$value": "{_colors.orange.700}"
+          "$description": ""
         }
       },
       "three": {
         "default": {
+          "$value": "{_colors.cyan.500}",
           "$type": "color",
-          "$value": "{_colors.cyan.500}"
-        },
-        "subtle": {
-          "$type": "color",
-          "$value": "{_colors.cyan.100}"
+          "$description": ""
         },
         "strong": {
+          "$value": "{_colors.cyan.700}",
           "$type": "color",
-          "$value": "{_colors.cyan.700}"
+          "$description": ""
+        },
+        "subtle": {
+          "$value": "{_colors.cyan.100}",
+          "$type": "color",
+          "$description": ""
         }
-      }
-    },
-    "background": {
-      "canvas": {
-        "$type": "color",
-        "$value": "{_colors.slate.050}",
-        "_comment": "Maps to #f8fafc"
-      },
-      "surface": {
-        "$type": "color",
-        "$value": "{_colors.white}",
-        "_comment": "Maps to #fff"
-      },
-      "surface-variant": {
-        "$type": "color",
-        "$value": "{_colors.slate.100}",
-        "_comment": "Maps to #f1f5f9"
-      },
-      "inverse": {
-        "$type": "color",
-        "$value": "{_colors.slate.900}",
-        "_comment": "Maps to #0f172a"
-      }
-    },
-    "text": {
-      "primary": {
-        "$type": "color",
-        "$value": "{_colors.slate.900}"
-      },
-      "secondary": {
-        "$type": "color",
-        "$value": "{_colors.slate.600}"
-      },
-      "muted": {
-        "$type": "color",
-        "$value": "{_colors.slate.400}"
-      },
-      "on-brand": {
-        "$type": "color",
-        "$value": "{_colors.white}"
       }
     },
     "border": {
       "default": {
+        "$value": "{_colors.slate.200}",
         "$type": "color",
-        "$value": "{_colors.slate.200}"
-      },
-      "subtle": {
-        "$type": "color",
-        "$value": "{_colors.slate.100}"
+        "$description": ""
       },
       "strong": {
+        "$value": "{_colors.slate.400}",
         "$type": "color",
-        "$value": "{_colors.slate.400}"
+        "$description": ""
+      },
+      "subtle": {
+        "$value": "{_colors.slate.100}",
+        "$type": "color",
+        "$description": ""
+      }
+    },
+    "background": {
+      "surface-variant": {
+        "$value": "{_colors.slate.100}",
+        "$type": "color",
+        "$description": ""
+      },
+      "canvas": {
+        "$value": "{_colors.slate.050}",
+        "$type": "color",
+        "$description": ""
+      },
+      "surface": {
+        "$value": "{_colors.white}",
+        "$type": "color",
+        "$description": ""
+      },
+      "inverse": {
+        "$value": "{_colors.slate.900}",
+        "$type": "color",
+        "$description": ""
       }
     },
     "feedback": {
-      "error": {
-        "$type": "color",
-        "$value": "{_colors.red.600}"
-      },
-      "success": {
-        "$type": "color",
-        "$value": "{_colors.green.600}"
-      },
       "warning": {
+        "$value": "{_colors.amber.500}",
         "$type": "color",
-        "$value": "{_colors.amber.500}"
+        "$description": ""
       },
       "info": {
+        "$value": "{_colors.sky.600}",
         "$type": "color",
-        "$value": "{_colors.sky.600}"
+        "$description": ""
+      },
+      "error": {
+        "$value": "{_colors.red.600}",
+        "$type": "color",
+        "$description": ""
+      },
+      "success": {
+        "$value": "{_colors.green.600}",
+        "$type": "color",
+        "$description": ""
+      }
+    },
+    "brand": {
+      "secondary": {
+        "$value": "{_colors.slate.800}",
+        "$type": "color",
+        "$description": ""
+      },
+      "primary-hover": {
+        "$value": "{_colors.blue.700}",
+        "$type": "color",
+        "$description": ""
+      },
+      "primary": {
+        "$value": "{_colors.blue.600}",
+        "$type": "color",
+        "$description": ""
+      }
+    },
+    "text": {
+      "secondary": {
+        "$value": "{_colors.slate.600}",
+        "$type": "color",
+        "$description": ""
+      },
+      "muted": {
+        "$value": "{_colors.slate.400}",
+        "$type": "color",
+        "$description": ""
+      },
+      "primary": {
+        "$value": "{_colors.slate.900}",
+        "$type": "color",
+        "$description": ""
+      },
+      "on-brand": {
+        "$value": "{_colors.white}",
+        "$type": "color",
+        "$description": ""
       }
     }
   }
