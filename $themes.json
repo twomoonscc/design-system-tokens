@@ -6,8 +6,8 @@
     "description": "",
     "isSource": false,
     "selectedTokenSets": {
-      "Foundation": "enabled",
-      "tailwind-primitives": "enabled"
+      "tailwind-primitives": "enabled",
+      "Foundation": "enabled"
     }
   },
   {

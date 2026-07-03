@@ -7,9 +7,9 @@
   ],
   "activeThemes": [],
   "activeSets": [
-    "typography",
-    "Foundation",
+    "Theme config: Base",
     "tailwind-primitives",
-    "Theme config: Base"
+    "Foundation",
+    "typography"
   ]
 }
