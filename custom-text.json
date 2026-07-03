@@ -1,44 +1,172 @@
 {
   "_custom_text": {
-    "fontSizes": {
-      "micro": { "$value": "10px", "$type": "fontSizes" },
-      "caption": { "$value": "13px", "$type": "fontSizes" },
-      "body": { "$value": "17px", "$type": "fontSizes" },
-      "lead": { "$value": "22px", "$type": "fontSizes" },
-      "h4": { "$value": "28px", "$type": "fontSizes" },
-      "h3": { "$value": "40px", "$type": "fontSizes" },
-      "h2": { "$value": "64px", "$type": "fontSizes" },
-      "h1": { "$value": "112px", "$type": "fontSizes" }
+    "letterSpacing": {
+      "h2": {
+        "$value": "-0.03px",
+        "$type": "letterSpacing",
+        "$description": ""
+      },
+      "lead": {
+        "$value": "-0.01px",
+        "$type": "letterSpacing",
+        "$description": ""
+      },
+      "h4": {
+        "$value": "-0.02px",
+        "$type": "letterSpacing",
+        "$description": ""
+      },
+      "h1": {
+        "$value": "-0.04px",
+        "$type": "letterSpacing",
+        "$description": ""
+      },
+      "micro": {
+        "$value": "0.02px",
+        "$type": "letterSpacing",
+        "$description": ""
+      },
+      "caption": {
+        "$value": "0px",
+        "$type": "letterSpacing",
+        "$description": ""
+      },
+      "h3": {
+        "$value": "-0.02px",
+        "$type": "letterSpacing",
+        "$description": ""
+      },
+      "body": {
+        "$value": "-0.01px",
+        "$type": "letterSpacing",
+        "$description": ""
+      }
     },
     "lineHeights": {
-      "micro": { "$value": "14px", "$type": "dimension" },
-      "caption": { "$value": "18px", "$type": "dimension" },
-      "body": { "$value": "26px", "$type": "dimension" },
-      "lead": { "$value": "32px", "$type": "dimension" },
-      "h4": { "$value": "36px", "$type": "dimension" },
-      "h3": { "$value": "48px", "$type": "dimension" },
-      "h2": { "$value": "72px", "$type": "dimension" },
-      "h1": { "$value": "116px", "$type": "dimension" }
+      "micro": {
+        "$value": "14px",
+        "$type": "dimension",
+        "$description": ""
+      },
+      "h4": {
+        "$value": "36px",
+        "$type": "dimension",
+        "$description": ""
+      },
+      "h2": {
+        "$value": "72px",
+        "$type": "dimension",
+        "$description": ""
+      },
+      "h3": {
+        "$value": "48px",
+        "$type": "dimension",
+        "$description": ""
+      },
+      "h1": {
+        "$value": "116px",
+        "$type": "dimension",
+        "$description": ""
+      },
+      "caption": {
+        "$value": "18px",
+        "$type": "dimension",
+        "$description": ""
+      },
+      "body": {
+        "$value": "26px",
+        "$type": "dimension",
+        "$description": ""
+      },
+      "lead": {
+        "$value": "32px",
+        "$type": "dimension",
+        "$description": ""
+      }
     },
     "fontWeights": {
-      "micro": { "$value": "400", "$type": "fontWeights" },
-      "caption": { "$value": "400", "$type": "fontWeights" },
-      "body": { "$value": "400", "$type": "fontWeights" },
-      "lead": { "$value": "400", "$type": "fontWeights" },
-      "h4": { "$value": "600", "$type": "fontWeights" },
-      "h3": { "$value": "700", "$type": "fontWeights" },
-      "h2": { "$value": "700", "$type": "fontWeights" },
-      "h1": { "$value": "800", "$type": "fontWeights" }
+      "h3": {
+        "$value": "700",
+        "$type": "fontWeights",
+        "$description": ""
+      },
+      "h4": {
+        "$value": "600",
+        "$type": "fontWeights",
+        "$description": ""
+      },
+      "body": {
+        "$value": "400",
+        "$type": "fontWeights",
+        "$description": ""
+      },
+      "h2": {
+        "$value": "700",
+        "$type": "fontWeights",
+        "$description": ""
+      },
+      "micro": {
+        "$value": "400",
+        "$type": "fontWeights",
+        "$description": ""
+      },
+      "lead": {
+        "$value": "400",
+        "$type": "fontWeights",
+        "$description": ""
+      },
+      "h1": {
+        "$value": "800",
+        "$type": "fontWeights",
+        "$description": ""
+      },
+      "caption": {
+        "$value": "400",
+        "$type": "fontWeights",
+        "$description": ""
+      }
     },
-    "letterSpacing": {
-      "micro": { "$value": "0.02px", "$type": "letterSpacing" },
-      "caption": { "$value": "0px", "$type": "letterSpacing" },
-      "body": { "$value": "-0.01px", "$type": "letterSpacing" },
-      "lead": { "$value": "-0.01px", "$type": "letterSpacing" },
-      "h4": { "$value": "-0.02px", "$type": "letterSpacing" },
-      "h3": { "$value": "-0.02px", "$type": "letterSpacing" },
-      "h2": { "$value": "-0.03px", "$type": "letterSpacing" },
-      "h1": { "$value": "-0.04px", "$type": "letterSpacing" }
+    "fontSizes": {
+      "h3": {
+        "$value": "40px",
+        "$type": "fontSizes",
+        "$description": ""
+      },
+      "h2": {
+        "$value": "64px",
+        "$type": "fontSizes",
+        "$description": ""
+      },
+      "h4": {
+        "$value": "28px",
+        "$type": "fontSizes",
+        "$description": ""
+      },
+      "lead": {
+        "$value": "22px",
+        "$type": "fontSizes",
+        "$description": ""
+      },
+      "h1": {
+        "$value": "112px",
+        "$type": "fontSizes",
+        "$description": ""
+      },
+      "caption": {
+        "$value": "13px",
+        "$type": "fontSizes",
+        "$description": ""
+      },
+      "micro": {
+        "$value": "10px",
+        "$type": "fontSizes",
+        "$description": ""
+      },
+      "body": {
+        "$value": "17px",
+        "$type": "fontSizes",
+        "$description": ""
+      }
     }
   }
 }

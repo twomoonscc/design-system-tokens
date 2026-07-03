@@ -2,222 +2,280 @@
   "Typography": {
     "Tailwind": {
       "xs": {
-        "$type": "typography",
         "$value": {
-          "fontFamily": "Inter",
-          "fontSize": "{_text.xs} * {affine-transform.font-size.scaling} + {affine-transform.font-size.offset}",
-          "lineHeight": "14px",
-          "fontWeight": "400",
-          "letterSpacing": "0px"
-        }
-      },
-      "sm": {
+          "fontFamilies": [
+            "Inter"
+          ],
+          "fontSizes": "{_text.xs} * {affine-transform.font-size.scaling} + {affine-transform.font-size.offset}",
+          "fontWeights": "400",
+          "letterSpacing": "0px",
+          "lineHeights": "14px"
+        },
         "$type": "typography",
-        "$value": {
-          "fontFamily": "Inter",
-          "fontSize": "{_text.sm} * {affine-transform.font-size.scaling} + {affine-transform.font-size.offset}",
-          "lineHeight": "16px",
-          "fontWeight": "400",
-          "letterSpacing": "0px"
-        }
-      },
-      "base": {
-        "$type": "typography",
-        "$value": {
-          "fontFamily": "Inter",
-          "fontSize": "{_text.base} * {affine-transform.font-size.scaling} + {affine-transform.font-size.offset}",
-          "lineHeight": "24px",
-          "fontWeight": "400",
-          "letterSpacing": "0px"
-        }
-      },
-      "lg": {
-        "$type": "typography",
-        "$value": {
-          "fontFamily": "Inter",
-          "fontSize": "{_text.lg} * {affine-transform.font-size.scaling} + {affine-transform.font-size.offset}",
-          "lineHeight": "28px",
-          "fontWeight": "400",
-          "letterSpacing": "0px"
-        }
-      },
-      "xl": {
-        "$type": "typography",
-        "$value": {
-          "fontFamily": "Inter",
-          "fontSize": "{_text.xl} * {affine-transform.font-size.scaling} + {affine-transform.font-size.offset}",
-          "lineHeight": "28px",
-          "fontWeight": "500",
-          "letterSpacing": "-0.01px"
-        }
-      },
-      "2xl": {
-        "$type": "typography",
-        "$value": {
-          "fontFamily": "Inter",
-          "fontSize": "{_text.2xl} * {affine-transform.font-size.scaling} + {affine-transform.font-size.offset}",
-          "lineHeight": "32px",
-          "fontWeight": "600",
-          "letterSpacing": "-0.01px"
-        }
+        "$description": ""
       },
       "3xl": {
-        "$type": "typography",
         "$value": {
-          "fontFamily": "Inter",
-          "fontSize": "{_text.3xl} * {affine-transform.font-size.scaling} + {affine-transform.font-size.offset}",
-          "lineHeight": "36px",
-          "fontWeight": "700",
-          "letterSpacing": "-0.02px"
-        }
+          "fontFamilies": [
+            "Inter"
+          ],
+          "fontSizes": "{_text.3xl} * {affine-transform.font-size.scaling} + {affine-transform.font-size.offset}",
+          "fontWeights": "700",
+          "letterSpacing": "-0.02px",
+          "lineHeights": "36px"
+        },
+        "$type": "typography",
+        "$description": ""
       },
       "4xl": {
-        "$type": "typography",
         "$value": {
-          "fontFamily": "Inter",
-          "fontSize": "{_text.4xl} * {affine-transform.font-size.scaling} + {affine-transform.font-size.offset}",
-          "lineHeight": "40px",
-          "fontWeight": "700",
-          "letterSpacing": "-0.02px"
-        }
-      },
-      "5xl": {
+          "fontFamilies": [
+            "Inter"
+          ],
+          "fontSizes": "{_text.4xl} * {affine-transform.font-size.scaling} + {affine-transform.font-size.offset}",
+          "fontWeights": "700",
+          "letterSpacing": "-0.02px",
+          "lineHeights": "40px"
+        },
         "$type": "typography",
-        "$value": {
-          "fontFamily": "Inter",
-          "fontSize": "{_text.5xl} * {affine-transform.font-size.scaling} + {affine-transform.font-size.offset}",
-          "lineHeight": "48px",
-          "fontWeight": "800",
-          "letterSpacing": "-0.02px"
-        }
-      },
-      "6xl": {
-        "$type": "typography",
-        "$value": {
-          "fontFamily": "Inter",
-          "fontSize": "{_text.6xl} * {affine-transform.font-size.scaling} + {affine-transform.font-size.offset}",
-          "lineHeight": "60px",
-          "fontWeight": "800",
-          "letterSpacing": "-0.02px"
-        }
+        "$description": ""
       },
       "7xl": {
-        "$type": "typography",
         "$value": {
-          "fontFamily": "Inter",
-          "fontSize": "{_text.7xl} * {affine-transform.font-size.scaling} + {affine-transform.font-size.offset}",
-          "lineHeight": "72px",
-          "fontWeight": "800",
-          "letterSpacing": "-0.03px"
-        }
+          "fontFamilies": [
+            "Inter"
+          ],
+          "fontSizes": "{_text.7xl} * {affine-transform.font-size.scaling} + {affine-transform.font-size.offset}",
+          "fontWeights": "800",
+          "letterSpacing": "-0.03px",
+          "lineHeights": "72px"
+        },
+        "$type": "typography",
+        "$description": ""
       },
-      "8xl": {
-        "$type": "typography",
+      "2xl": {
         "$value": {
-          "fontFamily": "Inter",
-          "fontSize": "{_text.8xl} * {affine-transform.font-size.scaling} + {affine-transform.font-size.offset}",
-          "lineHeight": "96px",
-          "fontWeight": "800",
-          "letterSpacing": "-0.03px"
-        }
+          "fontFamilies": [
+            "Inter"
+          ],
+          "fontSizes": "{_text.2xl} * {affine-transform.font-size.scaling} + {affine-transform.font-size.offset}",
+          "fontWeights": "600",
+          "letterSpacing": "-0.01px",
+          "lineHeights": "32px"
+        },
+        "$type": "typography",
+        "$description": ""
       },
       "9xl": {
-        "$type": "typography",
         "$value": {
-          "fontFamily": "Inter",
-          "fontSize": "{_text.9xl} * {affine-transform.font-size.scaling} + {affine-transform.font-size.offset}",
-          "lineHeight": "128px",
-          "fontWeight": "800",
-          "letterSpacing": "-0.04px"
-        }
+          "fontFamilies": [
+            "Inter"
+          ],
+          "fontSizes": "{_text.9xl} * {affine-transform.font-size.scaling} + {affine-transform.font-size.offset}",
+          "fontWeights": "800",
+          "letterSpacing": "-0.04px",
+          "lineHeights": "128px"
+        },
+        "$type": "typography",
+        "$description": ""
+      },
+      "base": {
+        "$value": {
+          "fontFamilies": [
+            "Inter"
+          ],
+          "fontSizes": "{_text.base} * {affine-transform.font-size.scaling} + {affine-transform.font-size.offset}",
+          "fontWeights": "400",
+          "letterSpacing": "0px",
+          "lineHeights": "24px"
+        },
+        "$type": "typography",
+        "$description": ""
+      },
+      "8xl": {
+        "$value": {
+          "fontFamilies": [
+            "Inter"
+          ],
+          "fontSizes": "{_text.8xl} * {affine-transform.font-size.scaling} + {affine-transform.font-size.offset}",
+          "fontWeights": "800",
+          "letterSpacing": "-0.03px",
+          "lineHeights": "96px"
+        },
+        "$type": "typography",
+        "$description": ""
+      },
+      "lg": {
+        "$value": {
+          "fontFamilies": [
+            "Inter"
+          ],
+          "fontSizes": "{_text.lg} * {affine-transform.font-size.scaling} + {affine-transform.font-size.offset}",
+          "fontWeights": "400",
+          "letterSpacing": "0px",
+          "lineHeights": "28px"
+        },
+        "$type": "typography",
+        "$description": ""
+      },
+      "xl": {
+        "$value": {
+          "fontFamilies": [
+            "Inter"
+          ],
+          "fontSizes": "{_text.xl} * {affine-transform.font-size.scaling} + {affine-transform.font-size.offset}",
+          "fontWeights": "500",
+          "letterSpacing": "-0.01px",
+          "lineHeights": "28px"
+        },
+        "$type": "typography",
+        "$description": ""
+      },
+      "6xl": {
+        "$value": {
+          "fontFamilies": [
+            "Inter"
+          ],
+          "fontSizes": "{_text.6xl} * {affine-transform.font-size.scaling} + {affine-transform.font-size.offset}",
+          "fontWeights": "800",
+          "letterSpacing": "-0.02px",
+          "lineHeights": "60px"
+        },
+        "$type": "typography",
+        "$description": ""
+      },
+      "5xl": {
+        "$value": {
+          "fontFamilies": [
+            "Inter"
+          ],
+          "fontSizes": "{_text.5xl} * {affine-transform.font-size.scaling} + {affine-transform.font-size.offset}",
+          "fontWeights": "800",
+          "letterSpacing": "-0.02px",
+          "lineHeights": "48px"
+        },
+        "$type": "typography",
+        "$description": ""
+      },
+      "sm": {
+        "$value": {
+          "fontFamilies": [
+            "Inter"
+          ],
+          "fontSizes": "{_text.sm} * {affine-transform.font-size.scaling} + {affine-transform.font-size.offset}",
+          "fontWeights": "400",
+          "letterSpacing": "0px",
+          "lineHeights": "16px"
+        },
+        "$type": "typography",
+        "$description": ""
       }
     },
     "Custom": {
-      "micro": {
-        "$type": "typography",
-        "$value": {
-          "fontFamily": "Inter",
-          "fontSize": "{_custom_text.fontSizes.micro}",
-          "lineHeight": "{_custom_text.lineHeights.micro}",
-          "fontWeight": "{_custom_text.fontWeights.micro}",
-          "letterSpacing": "{_custom_text.letterSpacing.micro}"
-        }
-      },
       "caption": {
-        "$type": "typography",
         "$value": {
-          "fontFamily": "Inter",
-          "fontSize": "{_custom_text.fontSizes.caption}",
-          "lineHeight": "{_custom_text.lineHeights.caption}",
-          "fontWeight": "{_custom_text.fontWeights.caption}",
-          "letterSpacing": "{_custom_text.letterSpacing.caption}"
-        }
-      },
-      "body": {
+          "fontFamilies": [
+            "Inter"
+          ],
+          "fontSizes": "{_custom_text.fontSizes.caption}",
+          "fontWeights": "{_custom_text.fontWeights.caption}",
+          "letterSpacing": "{_custom_text.letterSpacing.caption}",
+          "lineHeights": "{_custom_text.lineHeights.caption}"
+        },
         "$type": "typography",
-        "$value": {
-          "fontFamily": "Inter",
-          "fontSize": "{_custom_text.fontSizes.body}",
-          "lineHeight": "{_custom_text.lineHeights.body}",
-          "fontWeight": "{_custom_text.fontWeights.body}",
-          "letterSpacing": "{_custom_text.letterSpacing.body}"
-        }
-      },
-      "lead": {
-        "$type": "typography",
-        "$value": {
-          "fontFamily": "Inter",
-          "fontSize": "{_custom_text.fontSizes.lead}",
-          "lineHeight": "{_custom_text.lineHeights.lead}",
-          "fontWeight": "{_custom_text.fontWeights.lead}",
-          "letterSpacing": "{_custom_text.letterSpacing.lead}"
-        }
+        "$description": ""
       },
       "h4": {
-        "$type": "typography",
         "$value": {
-          "fontFamily": "Inter",
-          "fontSize": "{_custom_text.fontSizes.h4}",
-          "lineHeight": "{_custom_text.lineHeights.h4}",
-          "fontWeight": "{_custom_text.fontWeights.h4}",
-          "letterSpacing": "{_custom_text.letterSpacing.h4}"
-        }
+          "fontFamilies": [
+            "Inter"
+          ],
+          "fontSizes": "{_custom_text.fontSizes.h4}",
+          "fontWeights": "{_custom_text.fontWeights.h4}",
+          "letterSpacing": "{_custom_text.letterSpacing.h4}",
+          "lineHeights": "{_custom_text.lineHeights.h4}"
+        },
+        "$type": "typography",
+        "$description": ""
+      },
+      "micro": {
+        "$value": {
+          "fontFamilies": [
+            "Inter"
+          ],
+          "fontSizes": "{_custom_text.fontSizes.micro}",
+          "fontWeights": "{_custom_text.fontWeights.micro}",
+          "letterSpacing": "{_custom_text.letterSpacing.micro}",
+          "lineHeights": "{_custom_text.lineHeights.micro}"
+        },
+        "$type": "typography",
+        "$description": ""
       },
       "h3": {
-        "$type": "typography",
         "$value": {
-          "fontFamily": "Inter",
-          "fontSize": "{_custom_text.fontSizes.h3}",
-          "lineHeight": "{_custom_text.lineHeights.h3}",
-          "fontWeight": "{_custom_text.fontWeights.h3}",
-          "letterSpacing": "{_custom_text.letterSpacing.h3}"
-        }
+          "fontFamilies": [
+            "Inter"
+          ],
+          "fontSizes": "{_custom_text.fontSizes.h3}",
+          "fontWeights": "{_custom_text.fontWeights.h3}",
+          "letterSpacing": "{_custom_text.letterSpacing.h3}",
+          "lineHeights": "{_custom_text.lineHeights.h3}"
+        },
+        "$type": "typography",
+        "$description": ""
+      },
+      "body": {
+        "$value": {
+          "fontFamilies": [
+            "Inter"
+          ],
+          "fontSizes": "{_custom_text.fontSizes.body}",
+          "fontWeights": "{_custom_text.fontWeights.body}",
+          "letterSpacing": "{_custom_text.letterSpacing.body}",
+          "lineHeights": "{_custom_text.lineHeights.body}"
+        },
+        "$type": "typography",
+        "$description": ""
+      },
+      "lead": {
+        "$value": {
+          "fontFamilies": [
+            "Inter"
+          ],
+          "fontSizes": "{_custom_text.fontSizes.lead}",
+          "fontWeights": "{_custom_text.fontWeights.lead}",
+          "letterSpacing": "{_custom_text.letterSpacing.lead}",
+          "lineHeights": "{_custom_text.lineHeights.lead}"
+        },
+        "$type": "typography",
+        "$description": ""
       },
       "h2": {
-        "$type": "typography",
         "$value": {
-          "fontFamily": "Inter",
-          "fontSize": "{_custom_text.fontSizes.h2}",
-          "lineHeight": "{_custom_text.lineHeights.h2}",
-          "fontWeight": "{_custom_text.fontWeights.h2}",
-          "letterSpacing": "{_custom_text.letterSpacing.h2}"
-        }
+          "fontFamilies": [
+            "Inter"
+          ],
+          "fontSizes": "{_custom_text.fontSizes.h2}",
+          "fontWeights": "{_custom_text.fontWeights.h2}",
+          "letterSpacing": "{_custom_text.letterSpacing.h2}",
+          "lineHeights": "{_custom_text.lineHeights.h2}"
+        },
+        "$type": "typography",
+        "$description": ""
       },
       "h1": {
-        "$type": "typography",
         "$value": {
-          "fontFamily": "Inter",
-          "fontSize": "{_custom_text.fontSizes.h1}",
-          "lineHeight": "{_custom_text.lineHeights.h1}",
-          "fontWeight": "{_custom_text.fontWeights.h1}",
-          "letterSpacing": "{_custom_text.letterSpacing.h1}"
-        }
+          "fontFamilies": [
+            "Inter"
+          ],
+          "fontSizes": "{_custom_text.fontSizes.h1}",
+          "fontWeights": "{_custom_text.fontWeights.h1}",
+          "letterSpacing": "{_custom_text.letterSpacing.h1}",
+          "lineHeights": "{_custom_text.lineHeights.h1}"
+        },
+        "$type": "typography",
+        "$description": ""
       }
     }
-  },
-  "$metadata": {
-    "tokenSetOrder": [
-      "Typography"
-    ]
   }
 }

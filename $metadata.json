@@ -3,13 +3,17 @@
     "Foundation",
     "tailwind-primitives",
     "Theme config: Base",
-    "typography"
+    "typography",
+    "custom-text"
   ],
-  "activeThemes": [],
+  "activeThemes": [
+    "Always enabled/Global"
+  ],
   "activeSets": [
-    "Theme config: Base",
     "tailwind-primitives",
     "Foundation",
-    "typography"
+    "Theme config: Base",
+    "typography",
+    "custom-text"
   ]
 }

@@ -7,7 +7,10 @@
     "isSource": false,
     "selectedTokenSets": {
       "tailwind-primitives": "enabled",
-      "Foundation": "enabled"
+      "Foundation": "enabled",
+      "Theme config: Base": "enabled",
+      "typography": "enabled",
+      "custom-text": "enabled"
     }
   },
   {
