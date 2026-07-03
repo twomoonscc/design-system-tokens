@@ -1,0 +1,137 @@
+{
+  "color": {
+    "brand": {
+      "primary": {
+        "$type": "color",
+        "$value": "{_colors.blue.600}",
+        "_comment": "Maps to #2563eb"
+      },
+      "primary-hover": {
+        "$type": "color",
+        "$value": "{_colors.blue.700}",
+        "_comment": "Maps to #1d4ed8"
+      },
+      "secondary": {
+        "$type": "color",
+        "$value": "{_colors.slate.800}",
+        "_comment": "Maps to #1e293b"
+      }
+    },
+    "accent": {
+      "one": {
+        "default": {
+          "$type": "color",
+          "$value": "{_colors.purple.600}"
+        },
+        "subtle": {
+          "$type": "color",
+          "$value": "{_colors.purple.100}"
+        },
+        "strong": {
+          "$type": "color",
+          "$value": "{_colors.purple.800}"
+        }
+      },
+      "two": {
+        "default": {
+          "$type": "color",
+          "$value": "{_colors.orange.500}"
+        },
+        "subtle": {
+          "$type": "color",
+          "$value": "{_colors.orange.100}"
+        },
+        "strong": {
+          "$type": "color",
+          "$value": "{_colors.orange.700}"
+        }
+      },
+      "three": {
+        "default": {
+          "$type": "color",
+          "$value": "{_colors.cyan.500}"
+        },
+        "subtle": {
+          "$type": "color",
+          "$value": "{_colors.cyan.100}"
+        },
+        "strong": {
+          "$type": "color",
+          "$value": "{_colors.cyan.700}"
+        }
+      }
+    },
+    "background": {
+      "canvas": {
+        "$type": "color",
+        "$value": "{_colors.slate.050}",
+        "_comment": "Maps to #f8fafc"
+      },
+      "surface": {
+        "$type": "color",
+        "$value": "{_colors.white}",
+        "_comment": "Maps to #fff"
+      },
+      "surface-variant": {
+        "$type": "color",
+        "$value": "{_colors.slate.100}",
+        "_comment": "Maps to #f1f5f9"
+      },
+      "inverse": {
+        "$type": "color",
+        "$value": "{_colors.slate.900}",
+        "_comment": "Maps to #0f172a"
+      }
+    },
+    "text": {
+      "primary": {
+        "$type": "color",
+        "$value": "{_colors.slate.900}"
+      },
+      "secondary": {
+        "$type": "color",
+        "$value": "{_colors.slate.600}"
+      },
+      "muted": {
+        "$type": "color",
+        "$value": "{_colors.slate.400}"
+      },
+      "on-brand": {
+        "$type": "color",
+        "$value": "{_colors.white}"
+      }
+    },
+    "border": {
+      "default": {
+        "$type": "color",
+        "$value": "{_colors.slate.200}"
+      },
+      "subtle": {
+        "$type": "color",
+        "$value": "{_colors.slate.100}"
+      },
+      "strong": {
+        "$type": "color",
+        "$value": "{_colors.slate.400}"
+      }
+    },
+    "feedback": {
+      "error": {
+        "$type": "color",
+        "$value": "{_colors.red.600}"
+      },
+      "success": {
+        "$type": "color",
+        "$value": "{_colors.green.600}"
+      },
+      "warning": {
+        "$type": "color",
+        "$value": "{_colors.amber.500}"
+      },
+      "info": {
+        "$type": "color",
+        "$value": "{_colors.sky.600}"
+      }
+    }
+  }
+}
