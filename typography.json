@@ -1,216 +1,223 @@
 {
   "Typography": {
-    "font-size": {
-      "3xl": {
-        "$value": "{text.3xl}",
-        "$type": "fontSizes",
-        "$description": "3X Large font size."
-      },
-      "2xl": {
-        "$value": "{text.2xl}",
-        "$type": "fontSizes",
-        "$description": "2X Large font size."
-      },
+    "Tailwind": {
       "xs": {
-        "$value": "{text.xs}",
-        "$type": "fontSizes",
-        "$description": "Extra small font size."
-      },
-      "xl": {
-        "$value": "{text.xl}",
-        "$type": "fontSizes",
-        "$description": "Extra large font size."
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "Inter",
+          "fontSize": "{_text.xs} * {affine-transform.font-size.scaling} + {affine-transform.font-size.offset}",
+          "lineHeight": "14px",
+          "fontWeight": "400",
+          "letterSpacing": "0px"
+        }
       },
       "sm": {
-        "$value": "{text.sm}",
-        "$type": "fontSizes",
-        "$description": "Small font size."
-      },
-      "4xl": {
-        "$value": "{text.4xl}",
-        "$type": "fontSizes",
-        "$description": "4X Large font size."
-      },
-      "lg": {
-        "$value": "{text.lg}",
-        "$type": "fontSizes",
-        "$description": "Large font size."
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "Inter",
+          "fontSize": "{_text.sm} * {affine-transform.font-size.scaling} + {affine-transform.font-size.offset}",
+          "lineHeight": "16px",
+          "fontWeight": "400",
+          "letterSpacing": "0px"
+        }
       },
       "base": {
-        "$value": "{text.base}",
-        "$type": "fontSizes",
-        "$description": "Base/default font size."
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "Inter",
+          "fontSize": "{_text.base} * {affine-transform.font-size.scaling} + {affine-transform.font-size.offset}",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "letterSpacing": "0px"
+        }
+      },
+      "lg": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "Inter",
+          "fontSize": "{_text.lg} * {affine-transform.font-size.scaling} + {affine-transform.font-size.offset}",
+          "lineHeight": "28px",
+          "fontWeight": "400",
+          "letterSpacing": "0px"
+        }
+      },
+      "xl": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "Inter",
+          "fontSize": "{_text.xl} * {affine-transform.font-size.scaling} + {affine-transform.font-size.offset}",
+          "lineHeight": "28px",
+          "fontWeight": "500",
+          "letterSpacing": "-0.01px"
+        }
+      },
+      "2xl": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "Inter",
+          "fontSize": "{_text.2xl} * {affine-transform.font-size.scaling} + {affine-transform.font-size.offset}",
+          "lineHeight": "32px",
+          "fontWeight": "600",
+          "letterSpacing": "-0.01px"
+        }
+      },
+      "3xl": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "Inter",
+          "fontSize": "{_text.3xl} * {affine-transform.font-size.scaling} + {affine-transform.font-size.offset}",
+          "lineHeight": "36px",
+          "fontWeight": "700",
+          "letterSpacing": "-0.02px"
+        }
+      },
+      "4xl": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "Inter",
+          "fontSize": "{_text.4xl} * {affine-transform.font-size.scaling} + {affine-transform.font-size.offset}",
+          "lineHeight": "40px",
+          "fontWeight": "700",
+          "letterSpacing": "-0.02px"
+        }
+      },
+      "5xl": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "Inter",
+          "fontSize": "{_text.5xl} * {affine-transform.font-size.scaling} + {affine-transform.font-size.offset}",
+          "lineHeight": "48px",
+          "fontWeight": "800",
+          "letterSpacing": "-0.02px"
+        }
+      },
+      "6xl": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "Inter",
+          "fontSize": "{_text.6xl} * {affine-transform.font-size.scaling} + {affine-transform.font-size.offset}",
+          "lineHeight": "60px",
+          "fontWeight": "800",
+          "letterSpacing": "-0.02px"
+        }
+      },
+      "7xl": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "Inter",
+          "fontSize": "{_text.7xl} * {affine-transform.font-size.scaling} + {affine-transform.font-size.offset}",
+          "lineHeight": "72px",
+          "fontWeight": "800",
+          "letterSpacing": "-0.03px"
+        }
+      },
+      "8xl": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "Inter",
+          "fontSize": "{_text.8xl} * {affine-transform.font-size.scaling} + {affine-transform.font-size.offset}",
+          "lineHeight": "96px",
+          "fontWeight": "800",
+          "letterSpacing": "-0.03px"
+        }
+      },
+      "9xl": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "Inter",
+          "fontSize": "{_text.9xl} * {affine-transform.font-size.scaling} + {affine-transform.font-size.offset}",
+          "lineHeight": "128px",
+          "fontWeight": "800",
+          "letterSpacing": "-0.04px"
+        }
       }
     },
-    "text": {
-      "emphasis": {
-        "$value": {
-          "fontFamilies": [
-            "{font.sans}"
-          ],
-          "fontSizes": "{text.sm}",
-          "fontWeights": "{font-weight.light}",
-          "lineHeights": "{text.leading.normal}"
-        },
+    "Custom": {
+      "micro": {
         "$type": "typography",
-        "$description": "Variation on the default text style used when text requires spoken emphasis."
+        "$value": {
+          "fontFamily": "Inter",
+          "fontSize": "{_custom_text.fontSizes.micro}",
+          "lineHeight": "{_custom_text.lineHeights.micro}",
+          "fontWeight": "{_custom_text.fontWeights.micro}",
+          "letterSpacing": "{_custom_text.letterSpacing.micro}"
+        }
       },
-      "code": {
-        "$value": {
-          "fontFamilies": [
-            "{font.mono}"
-          ],
-          "fontSizes": "{text.sm}",
-          "fontWeights": "{font-weight.normal}",
-          "lineHeights": "{text.leading.normal}"
-        },
+      "caption": {
         "$type": "typography",
-        "$description": "Text style used for displaying code as text."
+        "$value": {
+          "fontFamily": "Inter",
+          "fontSize": "{_custom_text.fontSizes.caption}",
+          "lineHeight": "{_custom_text.lineHeights.caption}",
+          "fontWeight": "{_custom_text.fontWeights.caption}",
+          "letterSpacing": "{_custom_text.letterSpacing.caption}"
+        }
       },
-      "meta": {
-        "$value": {
-          "fontFamilies": [
-            "{font.sans}"
-          ],
-          "fontSizes": "{text.xs}",
-          "fontWeights": "{font-weight.normal}",
-          "lineHeights": "{text.leading.normal}"
-        },
+      "body": {
         "$type": "typography",
-        "$description": "Text style used for meta or legal text."
+        "$value": {
+          "fontFamily": "Inter",
+          "fontSize": "{_custom_text.fontSizes.body}",
+          "lineHeight": "{_custom_text.lineHeights.body}",
+          "fontWeight": "{_custom_text.fontWeights.body}",
+          "letterSpacing": "{_custom_text.letterSpacing.body}"
+        }
       },
-      "link": {
-        "$value": {
-          "fontFamilies": [
-            "{font.sans}"
-          ],
-          "fontSizes": "{text.sm}",
-          "fontWeights": "{font-weight.normal}",
-          "lineHeights": "{text.leading.normal}",
-          "textDecoration": "underline"
-        },
+      "lead": {
         "$type": "typography",
-        "$description": "Text style used for links."
+        "$value": {
+          "fontFamily": "Inter",
+          "fontSize": "{_custom_text.fontSizes.lead}",
+          "lineHeight": "{_custom_text.lineHeights.lead}",
+          "fontWeight": "{_custom_text.fontWeights.lead}",
+          "letterSpacing": "{_custom_text.letterSpacing.lead}"
+        }
       },
-      "strong": {
-        "$value": {
-          "fontFamilies": [
-            "{font.sans}"
-          ],
-          "fontSizes": "{text.sm}",
-          "fontWeights": "{font-weight.bold}",
-          "lineHeights": "{text.leading.normal}"
-        },
+      "h4": {
         "$type": "typography",
-        "$description": "Variation on the default text style used when text requires to be spoken strongly."
+        "$value": {
+          "fontFamily": "Inter",
+          "fontSize": "{_custom_text.fontSizes.h4}",
+          "lineHeight": "{_custom_text.lineHeights.h4}",
+          "fontWeight": "{_custom_text.fontWeights.h4}",
+          "letterSpacing": "{_custom_text.letterSpacing.h4}"
+        }
       },
-      "default": {
-        "$value": {
-          "fontFamilies": [
-            "{font.sans}"
-          ],
-          "fontSizes": "{text.sm}",
-          "fontWeights": "{font-weight.normal}",
-          "lineHeights": "{text.leading.normal}"
-        },
+      "h3": {
         "$type": "typography",
-        "$description": "Default text style used for paragraphs, labels, and other basic text."
+        "$value": {
+          "fontFamily": "Inter",
+          "fontSize": "{_custom_text.fontSizes.h3}",
+          "lineHeight": "{_custom_text.lineHeights.h3}",
+          "fontWeight": "{_custom_text.fontWeights.h3}",
+          "letterSpacing": "{_custom_text.letterSpacing.h3}"
+        }
       },
-      "quote": {
-        "$value": {
-          "fontFamilies": [
-            "{font.sans}"
-          ],
-          "fontSizes": "{text.sm}",
-          "fontWeights": "{font-weight.light}",
-          "lineHeights": "{text.leading.normal}"
-        },
+      "h2": {
         "$type": "typography",
-        "$description": "Variation on the default text style used when quoting text."
-      }
-    },
-    "heading": {
-      "level-3": {
         "$value": {
-          "fontFamilies": [
-            "{font.sans}"
-          ],
-          "fontSizes": "{text.lg}",
-          "fontWeights": "{font-weight.bold}",
-          "lineHeights": "{text.leading.normal}"
-        },
-        "$type": "typography",
-        "$description": "Heading style used for the next most important headings after heading level two."
+          "fontFamily": "Inter",
+          "fontSize": "{_custom_text.fontSizes.h2}",
+          "lineHeight": "{_custom_text.lineHeights.h2}",
+          "fontWeight": "{_custom_text.fontWeights.h2}",
+          "letterSpacing": "{_custom_text.letterSpacing.h2}"
+        }
       },
-      "level-2": {
-        "$value": {
-          "fontFamilies": [
-            "{font.sans}"
-          ],
-          "fontSizes": "{text.xl}",
-          "fontWeights": "{font-weight.bold}",
-          "lineHeights": "{text.leading.normal}"
-        },
+      "h1": {
         "$type": "typography",
-        "$description": "Heading style used for the next most important headings after heading level one."
-      },
-      "level-1": {
         "$value": {
-          "fontFamilies": [
-            "{font.sans}"
-          ],
-          "fontSizes": "{text.2xl}",
-          "fontWeights": "{font-weight.bold}",
-          "letterSpacing": "{tracking.tight}",
-          "lineHeights": "{text.leading.normal}"
-        },
-        "$type": "typography",
-        "$description": "Heading style used for the most important title or page title."
-      }
-    },
-    "display": {
-      "title": {
-        "$value": {
-          "fontFamilies": [
-            "{font.sans}"
-          ],
-          "fontSizes": "{text.4xl}",
-          "fontWeights": "{font-weight.bold}",
-          "letterSpacing": "{tracking.normal}",
-          "lineHeights": "{text.leading.normal}"
-        },
-        "$type": "typography",
-        "$description": "Display title style used for dramatic text sizes on landing pages."
-      },
-      "subtitle": {
-        "$value": {
-          "fontFamilies": [
-            "{font.sans}"
-          ],
-          "fontSizes": "{text.3xl}",
-          "fontWeights": "{font-weight.bold}",
-          "letterSpacing": "{tracking.normal}",
-          "lineHeights": "{text.leading.normal}"
-        },
-        "$type": "typography",
-        "$description": "Display subtitle style used for dramatic text sizes on landing pages."
-      }
-    },
-    "family": {
-      "code": {
-        "$value": [
-          "Atkinson Hyperlegible Mono"
-        ],
-        "$type": "fontFamilies",
-        "$description": "Font family used for code blocks."
-      },
-      "default": {
-        "$value": [
-          "Inclusive Sans"
-        ],
-        "$type": "fontFamilies",
-        "$description": "Font family used for body prose."
+          "fontFamily": "Inter",
+          "fontSize": "{_custom_text.fontSizes.h1}",
+          "lineHeight": "{_custom_text.lineHeights.h1}",
+          "fontWeight": "{_custom_text.fontWeights.h1}",
+          "letterSpacing": "{_custom_text.letterSpacing.h1}"
+        }
       }
     }
+  },
+  "$metadata": {
+    "tokenSetOrder": [
+      "Typography"
+    ]
   }
 }
