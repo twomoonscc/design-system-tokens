@@ -6,12 +6,12 @@
     "description": "",
     "isSource": false,
     "selectedTokenSets": {
-      "tailwind-primitives": "enabled",
-      "Foundation": "enabled",
       "Theme config: Base": "enabled",
-      "typography": "enabled",
+      "tailwind-primitives": "enabled",
+      "custom-colors": "enabled",
+      "Foundation": "enabled",
       "custom-text": "enabled",
-      "custom-colors": "enabled"
+      "typography": "enabled"
     }
   },
   {

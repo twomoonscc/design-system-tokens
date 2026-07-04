@@ -2,69 +2,69 @@
   "_custom_text": {
     "letterSpacing": {
       "h2": {
-        "$value": "-0.03px",
+        "$value": "-0.48px",
         "$type": "letterSpacing",
         "$description": ""
       },
       "lead": {
-        "$value": "-0.01px",
-        "$type": "letterSpacing",
-        "$description": ""
-      },
-      "h4": {
-        "$value": "-0.02px",
-        "$type": "letterSpacing",
-        "$description": ""
-      },
-      "h1": {
-        "$value": "-0.04px",
-        "$type": "letterSpacing",
-        "$description": ""
-      },
-      "micro": {
-        "$value": "0.02px",
-        "$type": "letterSpacing",
-        "$description": ""
-      },
-      "caption": {
         "$value": "0px",
         "$type": "letterSpacing",
         "$description": ""
       },
+      "h4": {
+        "$value": "-0.22px",
+        "$type": "letterSpacing",
+        "$description": ""
+      },
+      "h1": {
+        "$value": "-1.12px",
+        "$type": "letterSpacing",
+        "$description": ""
+      },
+      "micro": {
+        "$value": "1.98px",
+        "$type": "letterSpacing",
+        "$description": ""
+      },
+      "caption": {
+        "$value": "0.52px",
+        "$type": "letterSpacing",
+        "$description": ""
+      },
       "h3": {
-        "$value": "-0.02px",
+        "$value": "-0.36px",
         "$type": "letterSpacing",
         "$description": ""
       },
       "body": {
-        "$value": "-0.01px",
+        "$value": "0px",
         "$type": "letterSpacing",
         "$description": ""
       }
     },
     "lineHeights": {
       "micro": {
-        "$value": "14px",
+        "$value": "15px",
         "$type": "dimension",
         "$description": ""
       },
       "h4": {
-        "$value": "36px",
+        "$value": "31px",
         "$type": "dimension",
         "$description": ""
       },
       "h2": {
-        "$value": "72px",
+        "$value": "52px",
         "$type": "dimension",
         "$description": ""
       },
       "h3": {
-        "$value": "48px",
+        "$value": "43px",
         "$type": "dimension",
         "$description": ""
       },
       "h1": {
-        "$value": "116px",
+        "$value": "101px",
         "$type": "dimension",
         "$description": ""
       },
@@ -74,24 +74,24 @@
         "$description": ""
       },
       "body": {
-        "$value": "26px",
+        "$value": "25px",
         "$type": "dimension",
         "$description": ""
       },
       "lead": {
-        "$value": "32px",
+        "$value": "30px",
         "$type": "dimension",
         "$description": ""
       }
     },
     "fontWeights": {
       "h3": {
-        "$value": "700",
+        "$value": "400",
         "$type": "fontWeights",
         "$description": ""
       },
       "h4": {
-        "$value": "600",
+        "$value": "400",
         "$type": "fontWeights",
         "$description": ""
       },
@@ -101,12 +101,12 @@
         "$description": ""
       },
       "h2": {
-        "$value": "700",
+        "$value": "400",
         "$type": "fontWeights",
         "$description": ""
       },
       "micro": {
-        "$value": "400",
+        "$value": "700",
         "$type": "fontWeights",
         "$description": ""
       },
@@ -116,7 +116,7 @@
         "$description": ""
       },
       "h1": {
-        "$value": "800",
+        "$value": "400",
         "$type": "fontWeights",
         "$description": ""
       },
@@ -128,22 +128,22 @@
     },
     "fontSizes": {
       "h3": {
-        "$value": "40px",
+        "$value": "36px",
         "$type": "fontSizes",
         "$description": ""
       },
       "h2": {
-        "$value": "64px",
+        "$value": "48px",
         "$type": "fontSizes",
         "$description": ""
       },
       "h4": {
-        "$value": "28px",
+        "$value": "22px",
         "$type": "fontSizes",
         "$description": ""
       },
       "lead": {
-        "$value": "22px",
+        "$value": "17px",
         "$type": "fontSizes",
         "$description": ""
       },
@@ -158,13 +158,71 @@
         "$description": ""
       },
       "micro": {
-        "$value": "10px",
+        "$value": "11px",
         "$type": "fontSizes",
         "$description": ""
       },
       "body": {
-        "$value": "17px",
+        "$value": "14px",
         "$type": "fontSizes",
+        "$description": ""
+      }
+    },
+    "fontFamilies": {
+      "body": {
+        "$value": [
+          "Manrope"
+        ],
+        "$type": "fontFamilies",
+        "$description": ""
+      },
+      "h1": {
+        "$value": [
+          "Manrope"
+        ],
+        "$type": "fontFamilies",
+        "$description": ""
+      },
+      "caption": {
+        "$value": [
+          "Manrope"
+        ],
+        "$type": "fontFamilies",
+        "$description": ""
+      },
+      "h2": {
+        "$value": [
+          "Manrope"
+        ],
+        "$type": "fontFamilies",
+        "$description": ""
+      },
+      "h3": {
+        "$value": [
+          "Manrope"
+        ],
+        "$type": "fontFamilies",
+        "$description": ""
+      },
+      "h4": {
+        "$value": [
+          "Manrope"
+        ],
+        "$type": "fontFamilies",
+        "$description": ""
+      },
+      "lead": {
+        "$value": [
+          "Manrope"
+        ],
+        "$type": "fontFamilies",
+        "$description": ""
+      },
+      "micro": {
+        "$value": [
+          "Manrope"
+        ],
+        "$type": "fontFamilies",
         "$description": ""
       }
     }

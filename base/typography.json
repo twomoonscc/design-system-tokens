@@ -175,12 +175,12 @@
       "caption": {
         "$value": {
           "fontFamilies": [
-            "Inter"
+            "{_custom_text.fontFamilies.caption}"
           ],
           "fontSizes": "{_custom_text.fontSizes.caption}",
           "fontWeights": "{_custom_text.fontWeights.caption}",
-          "letterSpacing": "{_custom_text.letterSpacing.caption}",
-          "lineHeights": "{_custom_text.lineHeights.caption}"
+          "lineHeights": "{_custom_text.lineHeights.caption}",
+          "letterSpacing": "{_custom_text.letterSpacing.caption}"
         },
         "$type": "typography",
         "$description": ""
@@ -188,12 +188,12 @@
       "h4": {
         "$value": {
           "fontFamilies": [
-            "Inter"
+            "{_custom_text.fontFamilies.h4}"
           ],
           "fontSizes": "{_custom_text.fontSizes.h4}",
           "fontWeights": "{_custom_text.fontWeights.h4}",
-          "letterSpacing": "{_custom_text.letterSpacing.h4}",
-          "lineHeights": "{_custom_text.lineHeights.h4}"
+          "lineHeights": "{_custom_text.lineHeights.h4}",
+          "letterSpacing": "{_custom_text.letterSpacing.h4}"
         },
         "$type": "typography",
         "$description": ""
@@ -201,12 +201,12 @@
       "micro": {
         "$value": {
           "fontFamilies": [
-            "Inter"
+            "{_custom_text.fontFamilies.micro}"
           ],
           "fontSizes": "{_custom_text.fontSizes.micro}",
           "fontWeights": "{_custom_text.fontWeights.micro}",
-          "letterSpacing": "{_custom_text.letterSpacing.micro}",
-          "lineHeights": "{_custom_text.lineHeights.micro}"
+          "lineHeights": "{_custom_text.lineHeights.micro}",
+          "letterSpacing": "{_custom_text.letterSpacing.micro}"
         },
         "$type": "typography",
         "$description": ""
@@ -214,38 +214,38 @@
       "h3": {
         "$value": {
           "fontFamilies": [
-            "Inter"
+            "{_custom_text.fontFamilies.h3}"
           ],
           "fontSizes": "{_custom_text.fontSizes.h3}",
           "fontWeights": "{_custom_text.fontWeights.h3}",
-          "letterSpacing": "{_custom_text.letterSpacing.h3}",
-          "lineHeights": "{_custom_text.lineHeights.h3}"
+          "lineHeights": "{_custom_text.lineHeights.h3}",
+          "letterSpacing": "{_custom_text.letterSpacing.h3}"
         },
         "$type": "typography",
         "$description": ""
       },
       "body": {
         "$value": {
-          "fontFamilies": [
-            "Inter"
-          ],
           "fontSizes": "{_custom_text.fontSizes.body}",
           "fontWeights": "{_custom_text.fontWeights.body}",
+          "lineHeights": "{_custom_text.lineHeights.body}",
           "letterSpacing": "{_custom_text.letterSpacing.body}",
-          "lineHeights": "{_custom_text.lineHeights.body}"
+          "fontFamilies": [
+            "{_custom_text.fontFamilies.body}"
+          ]
         },
         "$type": "typography",
         "$description": ""
       },
       "lead": {
         "$value": {
-          "fontFamilies": [
-            "Inter"
-          ],
           "fontSizes": "{_custom_text.fontSizes.lead}",
           "fontWeights": "{_custom_text.fontWeights.lead}",
+          "lineHeights": "{_custom_text.lineHeights.lead}",
           "letterSpacing": "{_custom_text.letterSpacing.lead}",
-          "lineHeights": "{_custom_text.lineHeights.lead}"
+          "fontFamilies": [
+            "{_custom_text.fontFamilies.lead}"
+          ]
         },
         "$type": "typography",
         "$description": ""
@@ -253,12 +253,12 @@
       "h2": {
         "$value": {
           "fontFamilies": [
-            "Inter"
+            "{_custom_text.fontFamilies.h2}"
           ],
           "fontSizes": "{_custom_text.fontSizes.h2}",
           "fontWeights": "{_custom_text.fontWeights.h2}",
-          "letterSpacing": "{_custom_text.letterSpacing.h2}",
-          "lineHeights": "{_custom_text.lineHeights.h2}"
+          "lineHeights": "{_custom_text.lineHeights.h2}",
+          "letterSpacing": "{_custom_text.letterSpacing.h2}"
         },
         "$type": "typography",
         "$description": ""
@@ -266,12 +266,12 @@
       "h1": {
         "$value": {
           "fontFamilies": [
-            "Inter"
+            "{_custom_text.fontFamilies.h1}"
           ],
           "fontSizes": "{_custom_text.fontSizes.h1}",
           "fontWeights": "{_custom_text.fontWeights.h1}",
-          "letterSpacing": "{_custom_text.letterSpacing.h1}",
-          "lineHeights": "{_custom_text.lineHeights.h1}"
+          "lineHeights": "{_custom_text.lineHeights.h1}",
+          "letterSpacing": "{_custom_text.letterSpacing.h1}"
         },
         "$type": "typography",
         "$description": ""

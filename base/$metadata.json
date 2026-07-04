@@ -11,11 +11,11 @@
     "Always enabled/Global"
   ],
   "activeSets": [
-    "tailwind-primitives",
-    "Foundation",
     "Theme config: Base",
-    "typography",
+    "tailwind-primitives",
+    "custom-colors",
+    "Foundation",
     "custom-text",
-    "custom-colors"
+    "typography"
   ]
 }

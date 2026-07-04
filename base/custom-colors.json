@@ -3,51 +3,51 @@
     "accent": {
       "one": {
         "strong": {
-          "$value": "{_colors.purple.800}",
+          "$value": "#4A483F",
           "$type": "color",
           "$description": ""
         },
         "subtle": {
-          "$value": "{_colors.purple.100}",
+          "$value": "#DDDBD2",
           "$type": "color",
           "$description": ""
         },
         "default": {
-          "$value": "{_colors.purple.600}",
+          "$value": "#8A887F",
           "$type": "color",
           "$description": ""
         }
       },
       "two": {
         "strong": {
-          "$value": "{_colors.orange.700}",
+          "$value": "#3A3833",
           "$type": "color",
           "$description": ""
         },
         "subtle": {
-          "$value": "{_colors.orange.100}",
+          "$value": "#E5E3DA",
           "$type": "color",
           "$description": ""
         },
         "default": {
-          "$value": "{_colors.orange.500}",
+          "$value": "#B5B3AA",
           "$type": "color",
           "$description": ""
         }
       },
       "three": {
         "default": {
-          "$value": "{_colors.cyan.500}",
+          "$value": "#C9C7BD",
           "$type": "color",
           "$description": ""
         },
         "strong": {
-          "$value": "{_colors.cyan.700}",
+          "$value": "#1F1E1B",
           "$type": "color",
           "$description": ""
         },
         "subtle": {
-          "$value": "{_colors.cyan.100}",
+          "$value": "#F2F2EF",
           "$type": "color",
           "$description": ""
         }
@@ -55,100 +55,100 @@
     },
     "border": {
       "default": {
-        "$value": "{_colors.slate.200}",
+        "$value": "#CFCDC4",
         "$type": "color",
         "$description": ""
       },
       "strong": {
-        "$value": "{_colors.slate.400}",
+        "$value": "#1A1A1A",
         "$type": "color",
         "$description": ""
       },
       "subtle": {
-        "$value": "{_colors.slate.100}",
+        "$value": "#DDDBD2",
         "$type": "color",
         "$description": ""
       }
     },
     "background": {
       "surface-variant": {
-        "$value": "{_colors.slate.100}",
+        "$value": "#E5E3DA",
         "$type": "color",
         "$description": ""
       },
       "canvas": {
-        "$value": "{_colors.slate.050}",
+        "$value": "#F2F2EF",
         "$type": "color",
         "$description": ""
       },
       "surface": {
-        "$value": "{_colors.white}",
+        "$value": "#FFFFFF",
         "$type": "color",
         "$description": ""
       },
       "inverse": {
-        "$value": "{_colors.slate.900}",
+        "$value": "#0F0F0D",
         "$type": "color",
         "$description": ""
       }
     },
     "feedback": {
       "warning": {
-        "$value": "{_colors.amber.500}",
+        "$value": "#8A887F",
         "$type": "color",
         "$description": ""
       },
       "info": {
-        "$value": "{_colors.sky.600}",
+        "$value": "#4A483F",
         "$type": "color",
         "$description": ""
       },
       "error": {
-        "$value": "{_colors.red.600}",
+        "$value": "#1A1A1A",
         "$type": "color",
         "$description": ""
       },
       "success": {
-        "$value": "{_colors.green.600}",
+        "$value": "#4A483F",
         "$type": "color",
         "$description": ""
       }
     },
     "brand": {
       "secondary": {
-        "$value": "{_colors.slate.800}",
+        "$value": "#4A483F",
         "$type": "color",
         "$description": ""
       },
       "primary-hover": {
-        "$value": "{_colors.blue.700}",
+        "$value": "#0F0F0D",
         "$type": "color",
         "$description": ""
       },
       "primary": {
-        "$value": "{_colors.blue.600}",
+        "$value": "#1A1A1A",
         "$type": "color",
         "$description": ""
       }
     },
     "text": {
       "secondary": {
-        "$value": "{_colors.slate.600}",
+        "$value": "#4A483F",
         "$type": "color",
         "$description": ""
       },
       "muted": {
-        "$value": "{_colors.slate.400}",
+        "$value": "#8A887F",
         "$type": "color",
         "$description": ""
       },
       "primary": {
-        "$value": "{_colors.slate.900}",
+        "$value": "#1A1A1A",
         "$type": "color",
         "$description": ""
       },
       "on-brand": {
-        "$value": "{_colors.white}",
+        "$value": "#F2F2EF",
         "$type": "color",
         "$description": ""
       }
