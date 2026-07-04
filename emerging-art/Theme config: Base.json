@@ -1,0 +1,124 @@
+{
+  "affine-transform": {
+    "spacing": {
+      "scaling": {
+        "$value": "1",
+        "$type": "number",
+        "$description": "value that scales sizing/padding/margin linearly, i.e.: scaling-03 * scaling"
+      },
+      "offset": {
+        "$value": "0",
+        "$type": "number",
+        "$description": "value that is added on top of sizing/padding/margin, i.e.: scaling-03 + offset "
+      }
+    },
+    "breakpoint": {
+      "scaling": {
+        "$value": "1",
+        "$type": "number",
+        "$description": "value that scales breakpoint tokens in category dimension linearly, i.e.: breakpoint.lg * scaling"
+      },
+      "offset": {
+        "$value": "0",
+        "$type": "number",
+        "$description": "value that is added on top of breakpoint tokens in category dimension, i.e.: breakpoint.lg + offset "
+      }
+    },
+    "leading": {
+      "scaling": {
+        "$value": "1",
+        "$type": "number",
+        "$description": "value that scales reference leading/line-height, i.e.: leading.02 * scaling"
+      },
+      "offset": {
+        "$value": "0",
+        "$type": "number",
+        "$description": "value that is added on top of leading/line-height, i.e.: leading.02 + offset "
+      }
+    },
+    "font-weight": {
+      "offset": {
+        "$value": "0",
+        "$type": "number",
+        "$description": "value that is added on top of font-weight, i.e.: font-weight-light + offset "
+      },
+      "scaling": {
+        "$value": "1",
+        "$type": "number",
+        "$description": "value that scales font-weight linearly, i.e.: font-weight-light * scaling"
+      }
+    },
+    "font-size": {
+      "offset": {
+        "$value": "0",
+        "$type": "number",
+        "$description": "value that is added on top of font-size, i.e.: text-base + offset "
+      },
+      "scaling": {
+        "$value": "1",
+        "$type": "number",
+        "$description": "value that scales font-size linearly, i.e.: text-base * scaling"
+      }
+    },
+    "letter-spacing": {
+      "offset": {
+        "$value": "0",
+        "$type": "number",
+        "$description": "value that is added on top of letter-spacing, i.e.: tracking-wider + offset "
+      },
+      "scaling": {
+        "$value": "1",
+        "$type": "number",
+        "$description": "value that scales letter-spacing linearly, i.e.: tracking-tight * scaling"
+      }
+    },
+    "border-radius": {
+      "scaling": {
+        "$value": "1",
+        "$type": "number",
+        "$description": "value that scales border-radius linearly, i.e.: radius.sm * scaling"
+      },
+      "offset": {
+        "$value": "0",
+        "$type": "number",
+        "$description": "value that is added on top of border-radius, i.e.: radius.sm + offset "
+      }
+    },
+    "blur": {
+      "offset": {
+        "$value": "0",
+        "$type": "number",
+        "$description": "value that is added on top of blur tokens in category dimension, i.e.: blur.sm + offset "
+      },
+      "scaling": {
+        "$value": "1",
+        "$type": "number",
+        "$description": "value that scales blur tokens in category dimension linearly, i.e.: blur.sm * scaling"
+      }
+    },
+    "opacity": {
+      "offset": {
+        "$value": "0",
+        "$type": "number",
+        "$description": "value that is added on top of opacity, i.e.: opacity-10 + offset "
+      },
+      "scaling": {
+        "$value": "1",
+        "$type": "number",
+        "$description": "value that scales opacity linearly, i.e.: opacity-10 * scaling"
+      }
+    },
+    "container": {
+      "offset": {
+        "$value": "0",
+        "$type": "number",
+        "$description": "value that is added on top of container tokens in category dimension, i.e.: container.5xl + offset "
+      },
+      "scaling": {
+        "$value": "1",
+        "$type": "number",
+        "$description": "value that scales container tokens in category dimension linearly, i.e.: container.5xl * scaling"
+      }
+    }
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "color": {
+    "accent": {
+      "one": {
+        "strong": {
+          "$value": "#4A483F",
+          "$type": "color",
+          "$description": ""
+        },
+        "subtle": {
+          "$value": "#DDDBD2",
+          "$type": "color",
+          "$description": ""
+        },
+        "default": {
+          "$value": "#8A887F",
+          "$type": "color",
+          "$description": ""
+        }
+      },
+      "two": {
+        "strong": {
+          "$value": "#3A3833",
+          "$type": "color",
+          "$description": ""
+        },
+        "subtle": {
+          "$value": "#E5E3DA",
+          "$type": "color",
+          "$description": ""
+        },
+        "default": {
+          "$value": "#B5B3AA",
+          "$type": "color",
+          "$description": ""
+        }
+      },
+      "three": {
+        "default": {
+          "$value": "#C9C7BD",
+          "$type": "color",
+          "$description": ""
+        },
+        "strong": {
+          "$value": "#1F1E1B",
+          "$type": "color",
+          "$description": ""
+        },
+        "subtle": {
+          "$value": "#F2F2EF",
+          "$type": "color",
+          "$description": ""
+        }
+      }
+    },
+    "border": {
+      "default": {
+        "$value": "#CFCDC4",
+        "$type": "color",
+        "$description": ""
+      },
+      "strong": {
+        "$value": "#1A1A1A",
+        "$type": "color",
+        "$description": ""
+      },
+      "subtle": {
+        "$value": "#DDDBD2",
+        "$type": "color",
+        "$description": ""
+      }
+    },
+    "background": {
+      "surface-variant": {
+        "$value": "#E5E3DA",
+        "$type": "color",
+        "$description": ""
+      },
+      "canvas": {
+        "$value": "#F2F2EF",
+        "$type": "color",
+        "$description": ""
+      },
+      "surface": {
+        "$value": "#FFFFFF",
+        "$type": "color",
+        "$description": ""
+      },
+      "inverse": {
+        "$value": "#0F0F0D",
+        "$type": "color",
+        "$description": ""
+      }
+    },
+    "feedback": {
+      "warning": {
+        "$value": "#8A887F",
+        "$type": "color",
+        "$description": ""
+      },
+      "info": {
+        "$value": "#4A483F",
+        "$type": "color",
+        "$description": ""
+      },
+      "error": {
+        "$value": "#1A1A1A",
+        "$type": "color",
+        "$description": ""
+      },
+      "success": {
+        "$value": "#4A483F",
+        "$type": "color",
+        "$description": ""
+      }
+    },
+    "brand": {
+      "secondary": {
+        "$value": "#4A483F",
+        "$type": "color",
+        "$description": ""
+      },
+      "primary-hover": {
+        "$value": "#0F0F0D",
+        "$type": "color",
+        "$description": ""
+      },
+      "primary": {
+        "$value": "#1A1A1A",
+        "$type": "color",
+        "$description": ""
+      }
+    },
+    "text": {
+      "secondary": {
+        "$value": "#4A483F",
+        "$type": "color",
+        "$description": ""
+      },
+      "muted": {
+        "$value": "#8A887F",
+        "$type": "color",
+        "$description": ""
+      },
+      "primary": {
+        "$value": "#1A1A1A",
+        "$type": "color",
+        "$description": ""
+      },
+      "on-brand": {
+        "$value": "#F2F2EF",
+        "$type": "color",
+        "$description": ""
+      }
+    }
+  }
+}

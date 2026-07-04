@@ -1,0 +1,2256 @@
+{
+  "spacing": {
+    "0": {
+      "5": {
+        "$value": "{_spacing.0.5} * {affine-transform.spacing.scaling} + {affine-transform.spacing.offset}",
+        "$type": "spacing",
+        "$description": "p-0.5/m-0.5, 0.125rem"
+      }
+    },
+    "1": {
+      "5": {
+        "$value": "{_spacing.1.5} * {affine-transform.spacing.scaling} + {affine-transform.spacing.offset}",
+        "$type": "spacing",
+        "$description": "p-1.5/m-1.5, 0.375rem"
+      }
+    },
+    "2": {
+      "5": {
+        "$value": "{_spacing.2.5} * {affine-transform.spacing.scaling} + {affine-transform.spacing.offset}",
+        "$type": "spacing",
+        "$description": "p-2.5/m-2.5, 0.625rem"
+      }
+    },
+    "3": {
+      "5": {
+        "$value": "{_spacing.3.5} * {affine-transform.spacing.scaling} + {affine-transform.spacing.offset}",
+        "$type": "spacing",
+        "$description": "p-3.5/m-3.5, 0.875rem"
+      }
+    },
+    "10": {
+      "$value": "{_spacing.10} * {affine-transform.spacing.scaling} + {affine-transform.spacing.offset}",
+      "$type": "spacing",
+      "$description": "p-10/m-10, 2.5rem"
+    },
+    "11": {
+      "$value": "{_spacing.11} * {affine-transform.spacing.scaling} + {affine-transform.spacing.offset}",
+      "$type": "spacing",
+      "$description": "p-11/m-11, 2.75rem"
+    },
+    "12": {
+      "$value": "{_spacing.12} * {affine-transform.spacing.scaling} + {affine-transform.spacing.offset}",
+      "$type": "spacing",
+      "$description": "p-12/m-12, 3rem"
+    },
+    "14": {
+      "$value": "{_spacing.14} * {affine-transform.spacing.scaling} + {affine-transform.spacing.offset}",
+      "$type": "spacing",
+      "$description": "p-14/m-14, 3.5rem"
+    },
+    "16": {
+      "$value": "{_spacing.16} * {affine-transform.spacing.scaling} + {affine-transform.spacing.offset}",
+      "$type": "spacing",
+      "$description": "p-16/m-16, 4rem"
+    },
+    "20": {
+      "$value": "{_spacing.20} * {affine-transform.spacing.scaling} + {affine-transform.spacing.offset}",
+      "$type": "spacing",
+      "$description": "p-20/m-20, 5rem"
+    },
+    "24": {
+      "$value": "{_spacing.24} * {affine-transform.spacing.scaling} + {affine-transform.spacing.offset}",
+      "$type": "spacing",
+      "$description": "p-24/m-24, 6rem"
+    },
+    "28": {
+      "$value": "{_spacing.28} * {affine-transform.spacing.scaling} + {affine-transform.spacing.offset}",
+      "$type": "spacing",
+      "$description": "p-28/m-28, 7rem"
+    },
+    "32": {
+      "$value": "{_spacing.32} * {affine-transform.spacing.scaling} + {affine-transform.spacing.offset}",
+      "$type": "spacing",
+      "$description": "p-32/m-32, 8rem"
+    },
+    "36": {
+      "$value": "{_spacing.36} * {affine-transform.spacing.scaling} + {affine-transform.spacing.offset}",
+      "$type": "spacing",
+      "$description": "p-36/m-36, 9rem"
+    },
+    "40": {
+      "$value": "{_spacing.40} * {affine-transform.spacing.scaling} + {affine-transform.spacing.offset}",
+      "$type": "spacing",
+      "$description": "p-40/m-40, 10rem"
+    },
+    "44": {
+      "$value": "{_spacing.44} * {affine-transform.spacing.scaling} + {affine-transform.spacing.offset}",
+      "$type": "spacing",
+      "$description": "p-44/m-44, 11rem"
+    },
+    "48": {
+      "$value": "{_spacing.48} * {affine-transform.spacing.scaling} + {affine-transform.spacing.offset}",
+      "$type": "spacing",
+      "$description": "p-48/m-48, 12rem"
+    },
+    "52": {
+      "$value": "{_spacing.52} * {affine-transform.spacing.scaling} + {affine-transform.spacing.offset}",
+      "$type": "spacing",
+      "$description": "p-52/m-52, 13rem"
+    },
+    "56": {
+      "$value": "{_spacing.56} * {affine-transform.spacing.scaling} + {affine-transform.spacing.offset}",
+      "$type": "spacing",
+      "$description": "p-56/m-56, 14rem"
+    },
+    "60": {
+      "$value": "{_spacing.60} * {affine-transform.spacing.scaling} + {affine-transform.spacing.offset}",
+      "$type": "spacing",
+      "$description": "p-60/m-60, 15rem"
+    },
+    "64": {
+      "$value": "{_spacing.64} * {affine-transform.spacing.scaling} + {affine-transform.spacing.offset}",
+      "$type": "spacing",
+      "$description": "p-64/m-64, 16rem"
+    },
+    "72": {
+      "$value": "{_spacing.72} * {affine-transform.spacing.scaling} + {affine-transform.spacing.offset}",
+      "$type": "spacing",
+      "$description": "p-72/m-72, 18rem"
+    },
+    "80": {
+      "$value": "{_spacing.80} * {affine-transform.spacing.scaling} + {affine-transform.spacing.offset}",
+      "$type": "spacing",
+      "$description": "p-80/m-80, 20rem"
+    },
+    "96": {
+      "$value": "{_spacing.96} * {affine-transform.spacing.scaling} + {affine-transform.spacing.offset}",
+      "$type": "spacing",
+      "$description": "p-96/m-96, 24rem"
+    },
+    "03": {
+      "$value": "{_spacing.03} * {affine-transform.spacing.scaling} + {affine-transform.spacing.offset}",
+      "$type": "spacing",
+      "$description": "p-3/m-3, 0.75rem"
+    },
+    "px": {
+      "$value": "{_spacing.px} * {affine-transform.spacing.scaling} + {affine-transform.spacing.offset}",
+      "$type": "spacing",
+      "$description": "1px, p-px/m-px"
+    },
+    "09": {
+      "$value": "{_spacing.09} * {affine-transform.spacing.scaling} + {affine-transform.spacing.offset}",
+      "$type": "spacing",
+      "$description": "p-9/m-9, 2.25rem"
+    },
+    "06": {
+      "$value": "{_spacing.06} * {affine-transform.spacing.scaling} + {affine-transform.spacing.offset}",
+      "$type": "spacing",
+      "$description": "p-6/m-6, 1.5rem"
+    },
+    "07": {
+      "$value": "{_spacing.07} * {affine-transform.spacing.scaling} + {affine-transform.spacing.offset}",
+      "$type": "spacing",
+      "$description": "p-7/m-7, 1.75rem"
+    },
+    "00": {
+      "$value": "{_spacing.00} * {affine-transform.spacing.scaling} + {affine-transform.spacing.offset}",
+      "$type": "spacing",
+      "$description": "p-0/m-0 , 0px"
+    },
+    "05": {
+      "$value": "{_spacing.05} * {affine-transform.spacing.scaling} + {affine-transform.spacing.offset}",
+      "$type": "spacing",
+      "$description": "p-5/m-5, 1.25rem"
+    },
+    "02": {
+      "$value": "{_spacing.02} * {affine-transform.spacing.scaling} + {affine-transform.spacing.offset}",
+      "$type": "spacing",
+      "$description": "p-2/m-2, 0.5rem"
+    },
+    "04": {
+      "$value": "{_spacing.04} * {affine-transform.spacing.scaling} + {affine-transform.spacing.offset}",
+      "$type": "spacing",
+      "$description": "p-4/m-4, 1rem"
+    },
+    "01": {
+      "$value": "{_spacing.01} * {affine-transform.spacing.scaling} + {affine-transform.spacing.offset}",
+      "$type": "spacing",
+      "$description": "p-1/m-1, 0.25rem"
+    },
+    "08": {
+      "$value": "{_spacing.08} * {affine-transform.spacing.scaling} + {affine-transform.spacing.offset}",
+      "$type": "spacing",
+      "$description": "p-8/m-8, 2rem"
+    }
+  },
+  "breakpoint": {
+    "lg": {
+      "$value": "{_breakpoint.lg} * {affine-transform.breakpoint.scaling} + {affine-transform.breakpoint.offset}",
+      "$type": "dimension",
+      "$description": "Used for mainly width of screens/boards. Can also be used for height, position, thickness, radius."
+    },
+    "2xl": {
+      "$value": "{_breakpoint.2xl} * {affine-transform.breakpoint.scaling} + {affine-transform.breakpoint.offset}",
+      "$type": "dimension",
+      "$description": "Used for mainly width of screens/boards. Can also be used for height, position, thickness, radius."
+    },
+    "md": {
+      "$value": "{_breakpoint.md} * {affine-transform.breakpoint.scaling} + {affine-transform.breakpoint.offset}",
+      "$type": "dimension",
+      "$description": "Used for mainly width of screens/boards. Can also be used for height, position, thickness, radius."
+    },
+    "sm": {
+      "$value": "{_breakpoint.sm} * {affine-transform.breakpoint.scaling} + {affine-transform.breakpoint.offset}",
+      "$type": "dimension",
+      "$description": "Used for mainly width of screens/boards. Can also be used for height, position, thickness, radius."
+    },
+    "xl": {
+      "$value": "{_breakpoint.xl} * {affine-transform.breakpoint.scaling} + {affine-transform.breakpoint.offset}",
+      "$type": "dimension",
+      "$description": "Used for mainly width of screens/boards. Can also be used for height, position, thickness, radius."
+    }
+  },
+  "radius": {
+    "sm": {
+      "$value": "{_radius.sm} * {affine-transform.border-radius.scaling} + {affine-transform.border-radius.offset}",
+      "$type": "borderRadius",
+      "$description": ""
+    },
+    "4xl": {
+      "$value": "{_radius.4xl} * {affine-transform.border-radius.scaling} + {affine-transform.border-radius.offset}",
+      "$type": "borderRadius",
+      "$description": ""
+    },
+    "md": {
+      "$value": "{_radius.md} * {affine-transform.border-radius.scaling} + {affine-transform.border-radius.offset}",
+      "$type": "borderRadius",
+      "$description": ""
+    },
+    "2xl": {
+      "$value": "{_radius.2xl} * {affine-transform.border-radius.scaling} + {affine-transform.border-radius.offset}",
+      "$type": "borderRadius",
+      "$description": ""
+    },
+    "xl": {
+      "$value": "{_radius.xl} * {affine-transform.border-radius.scaling} + {affine-transform.border-radius.offset}",
+      "$type": "borderRadius",
+      "$description": ""
+    },
+    "3xl": {
+      "$value": "{_radius.3xl} * {affine-transform.border-radius.scaling} + {affine-transform.border-radius.offset}",
+      "$type": "borderRadius",
+      "$description": ""
+    },
+    "xs": {
+      "$value": "{_radius.xs} * {affine-transform.border-radius.scaling} + {affine-transform.border-radius.offset}",
+      "$type": "borderRadius",
+      "$description": ""
+    },
+    "lg": {
+      "$value": "{_radius.lg} * {affine-transform.border-radius.scaling} + {affine-transform.border-radius.offset}",
+      "$type": "borderRadius",
+      "$description": ""
+    }
+  },
+  "tracking": {
+    "wider": {
+      "$value": "{_tracking.wider} * {affine-transform.letter-spacing.scaling} + {affine-transform.letter-spacing.offset}",
+      "$type": "letterSpacing",
+      "$description": "2 step wider than normal letter spacing in tailwind"
+    },
+    "wide": {
+      "$value": "{_tracking.wide} * {affine-transform.letter-spacing.scaling} + {affine-transform.letter-spacing.offset}",
+      "$type": "letterSpacing",
+      "$description": "1step wider than normal letter spacing in tailwind"
+    },
+    "normal": {
+      "$value": "{_tracking.normal} * {affine-transform.letter-spacing.scaling} + {affine-transform.letter-spacing.offset}",
+      "$type": "letterSpacing",
+      "$description": "Standard/default letter spacing in tailwind"
+    },
+    "tighter": {
+      "$value": "{_tracking.tighter} * {affine-transform.letter-spacing.scaling} + {affine-transform.letter-spacing.offset}",
+      "$type": "letterSpacing",
+      "$description": "Tightest letter spacing in tailwind"
+    },
+    "widest": {
+      "$value": "{_tracking.widest} * {affine-transform.letter-spacing.scaling} + {affine-transform.letter-spacing.offset}",
+      "$type": "letterSpacing",
+      "$description": "Widest letter spacing in tailwind"
+    },
+    "tight": {
+      "$value": "{_tracking.tight} * {affine-transform.letter-spacing.scaling} + {affine-transform.letter-spacing.offset}",
+      "$type": "letterSpacing",
+      "$description": "1step tighter than normal letter spacing in tailwind"
+    }
+  },
+  "text": {
+    "xs": {
+      "$value": "{_text.xs} * {affine-transform.font-size.scaling} + {affine-transform.font-size.offset}",
+      "$type": "fontSizes",
+      "$description": ""
+    },
+    "3xl": {
+      "$value": "{_text.3xl} * {affine-transform.font-size.scaling} + {affine-transform.font-size.offset}",
+      "$type": "fontSizes",
+      "$description": ""
+    },
+    "4xl": {
+      "$value": "{_text.4xl} * {affine-transform.font-size.scaling} + {affine-transform.font-size.offset}",
+      "$type": "fontSizes",
+      "$description": ""
+    },
+    "7xl": {
+      "$value": "{_text.7xl} * {affine-transform.font-size.scaling} + {affine-transform.font-size.offset}",
+      "$type": "fontSizes",
+      "$description": ""
+    },
+    "2xl": {
+      "$value": "{_text.2xl} * {affine-transform.font-size.scaling} + {affine-transform.font-size.offset}",
+      "$type": "fontSizes",
+      "$description": ""
+    },
+    "9xl": {
+      "$value": "{_text.9xl} * {affine-transform.font-size.scaling} + {affine-transform.font-size.offset}",
+      "$type": "fontSizes",
+      "$description": ""
+    },
+    "base": {
+      "$value": "{_text.base} * {affine-transform.font-size.scaling} + {affine-transform.font-size.offset}",
+      "$type": "fontSizes",
+      "$description": ""
+    },
+    "leading": {
+      "0": {
+        "5": {
+          "$value": "{_text.leading.px} * {affine-transform.leading.scaling} + {affine-transform.leading.offset}",
+          "$type": "dimension",
+          "$description": "line-height: 0.125rem"
+        }
+      },
+      "1": {
+        "5": {
+          "$value": "{_text.leading.1.5} * {affine-transform.leading.scaling} + {affine-transform.leading.offset}",
+          "$type": "dimension",
+          "$description": "line-height: 0.375rem"
+        }
+      },
+      "2": {
+        "5": {
+          "$value": "{_text.leading.2.5} * {affine-transform.leading.scaling} + {affine-transform.leading.offset}",
+          "$type": "dimension",
+          "$description": "line-height: 0.625rem"
+        }
+      },
+      "3": {
+        "5": {
+          "$value": "{_text.leading.3.5} * {affine-transform.leading.scaling} + {affine-transform.leading.offset}",
+          "$type": "dimension",
+          "$description": "line-height: 0.875rem"
+        }
+      },
+      "10": {
+        "$value": "{_text.leading.10} * {affine-transform.leading.scaling} + {affine-transform.leading.offset}",
+        "$type": "dimension",
+        "$description": "line-height: 2.5rem"
+      },
+      "11": {
+        "$value": "{_text.leading.11} * {affine-transform.leading.scaling} + {affine-transform.leading.offset}",
+        "$type": "dimension",
+        "$description": "line-height: 2.75rem"
+      },
+      "12": {
+        "$value": "{_text.leading.12} * {affine-transform.leading.scaling} + {affine-transform.leading.offset}",
+        "$type": "dimension",
+        "$description": "line-height: 3rem"
+      },
+      "14": {
+        "$value": "{_text.leading.14} * {affine-transform.leading.scaling} + {affine-transform.leading.offset}",
+        "$type": "dimension",
+        "$description": "line-height: 3.5rem"
+      },
+      "16": {
+        "$value": "{_text.leading.16} * {affine-transform.leading.scaling} + {affine-transform.leading.offset}",
+        "$type": "dimension",
+        "$description": "line-height: 4rem"
+      },
+      "20": {
+        "$value": "{_text.leading.20} * {affine-transform.leading.scaling} + {affine-transform.leading.offset}",
+        "$type": "dimension",
+        "$description": "line-height: 5rem"
+      },
+      "24": {
+        "$value": "{_text.leading.24} * {affine-transform.leading.scaling} + {affine-transform.leading.offset}",
+        "$type": "dimension",
+        "$description": "line-height: 6rem"
+      },
+      "28": {
+        "$value": "{_text.leading.28} * {affine-transform.leading.scaling} + {affine-transform.leading.offset}",
+        "$type": "dimension",
+        "$description": "line-height: 7rem"
+      },
+      "32": {
+        "$value": "{_text.leading.32} * {affine-transform.leading.scaling} + {affine-transform.leading.offset}",
+        "$type": "dimension",
+        "$description": "line-height: 8rem"
+      },
+      "36": {
+        "$value": "{_text.leading.36} * {affine-transform.leading.scaling} + {affine-transform.leading.offset}",
+        "$type": "dimension",
+        "$description": "line-height: 9rem"
+      },
+      "40": {
+        "$value": "{_text.leading.40} * {affine-transform.leading.scaling} + {affine-transform.leading.offset}",
+        "$type": "dimension",
+        "$description": "line-height: 10rem"
+      },
+      "44": {
+        "$value": "{_text.leading.44} * {affine-transform.leading.scaling} + {affine-transform.leading.offset}",
+        "$type": "dimension",
+        "$description": "line-height: 11rem"
+      },
+      "48": {
+        "$value": "{_text.leading.48} * {affine-transform.leading.scaling} + {affine-transform.leading.offset}",
+        "$type": "dimension",
+        "$description": "line-height: 12rem"
+      },
+      "52": {
+        "$value": "{_text.leading.52} * {affine-transform.leading.scaling} + {affine-transform.leading.offset}",
+        "$type": "dimension",
+        "$description": "line-height: 13rem"
+      },
+      "56": {
+        "$value": "{_text.leading.56} * {affine-transform.leading.scaling} + {affine-transform.leading.offset}",
+        "$type": "dimension",
+        "$description": "line-height: 14rem"
+      },
+      "60": {
+        "$value": "{_text.leading.60} * {affine-transform.leading.scaling} + {affine-transform.leading.offset}",
+        "$type": "dimension",
+        "$description": "line-height: 15rem"
+      },
+      "64": {
+        "$value": "{_text.leading.64} * {affine-transform.leading.scaling} + {affine-transform.leading.offset}",
+        "$type": "dimension",
+        "$description": "line-height: 16rem"
+      },
+      "72": {
+        "$value": "{_text.leading.72} * {affine-transform.leading.scaling} + {affine-transform.leading.offset}",
+        "$type": "dimension",
+        "$description": "line-height: 18rem"
+      },
+      "80": {
+        "$value": "{_text.leading.80} * {affine-transform.leading.scaling} + {affine-transform.leading.offset}",
+        "$type": "dimension",
+        "$description": "line-height: 20rem"
+      },
+      "96": {
+        "$value": "{_text.leading.96} * {affine-transform.leading.scaling} + {affine-transform.leading.offset}",
+        "$type": "dimension",
+        "$description": "line-height: 24rem"
+      },
+      "03": {
+        "$value": "{_text.leading.03} * {affine-transform.leading.scaling} + {affine-transform.leading.offset}",
+        "$type": "dimension",
+        "$description": "line-height: 0.75rem"
+      },
+      "px": {
+        "$value": "{_text.leading.px} * {affine-transform.leading.scaling} + {affine-transform.leading.offset}",
+        "$type": "dimension",
+        "$description": "line-height: 1px"
+      },
+      "none": {
+        "$value": "{_text.leading.none} * {affine-transform.leading.scaling} + {affine-transform.leading.offset}",
+        "$type": "dimension",
+        "$description": "line-height: 1"
+      },
+      "09": {
+        "$value": "{_text.leading.09} * {affine-transform.leading.scaling} + {affine-transform.leading.offset}",
+        "$type": "dimension",
+        "$description": "line-height: 2.25rem"
+      },
+      "06": {
+        "$value": "{_text.leading.06} * {affine-transform.leading.scaling} + {affine-transform.leading.offset}",
+        "$type": "dimension",
+        "$description": "line-height: 1.5rem"
+      },
+      "relaxed": {
+        "$value": "{_text.leading.relaxed} * {affine-transform.leading.scaling} + {affine-transform.leading.offset}",
+        "$type": "dimension",
+        "$description": "line-height: 1.625"
+      },
+      "normal": {
+        "$value": "({_text.leading.normal} * {affine-transform.leading.scaling} + {affine-transform.leading.offset}) * 100%",
+        "$type": "dimension",
+        "$description": "line-height: 1.5"
+      },
+      "07": {
+        "$value": "{_text.leading.07} * {affine-transform.leading.scaling} + {affine-transform.leading.offset}",
+        "$type": "dimension",
+        "$description": "line-height: 1.75rem"
+      },
+      "snug": {
+        "$value": "{_text.leading.snug} * {affine-transform.leading.scaling} + {affine-transform.leading.offset}",
+        "$type": "dimension",
+        "$description": "line-height: 1.375"
+      },
+      "tight": {
+        "$value": "{_text.leading.tight} * {affine-transform.leading.scaling} + {affine-transform.leading.offset}",
+        "$type": "dimension",
+        "$description": "line-height: 1.25"
+      },
+      "00": {
+        "$value": "{_text.leading.tight} * {affine-transform.leading.scaling} + {affine-transform.leading.offset}",
+        "$type": "dimension",
+        "$description": "line-height: 0px"
+      },
+      "05": {
+        "$value": "{_text.leading.05} * {affine-transform.leading.scaling} + {affine-transform.leading.offset}",
+        "$type": "dimension",
+        "$description": "line-height: 1.25rem"
+      },
+      "02": {
+        "$value": "{_text.leading.02} * {affine-transform.leading.scaling} + {affine-transform.leading.offset}",
+        "$type": "dimension",
+        "$description": "line-height: 0.5rem"
+      },
+      "04": {
+        "$value": "{_text.leading.04} * {affine-transform.leading.scaling} + {affine-transform.leading.offset}",
+        "$type": "dimension",
+        "$description": "line-height: 1rem"
+      },
+      "loose": {
+        "$value": "{_text.leading.loose} * {affine-transform.leading.scaling} + {affine-transform.leading.offset}",
+        "$type": "dimension",
+        "$description": "line-height: 2"
+      },
+      "01": {
+        "$value": "{_text.leading.01} * {affine-transform.leading.scaling} + {affine-transform.leading.offset}",
+        "$type": "dimension",
+        "$description": "line-height: 0.25rem"
+      },
+      "08": {
+        "$value": "{_text.leading.08} * {affine-transform.leading.scaling} + {affine-transform.leading.offset}",
+        "$type": "dimension",
+        "$description": "line-height: 2rem"
+      }
+    },
+    "8xl": {
+      "$value": "{_text.8xl} * {affine-transform.font-size.scaling} + {affine-transform.font-size.offset}",
+      "$type": "fontSizes",
+      "$description": ""
+    },
+    "lg": {
+      "$value": "{_text.lg} * {affine-transform.font-size.scaling} + {affine-transform.font-size.offset}",
+      "$type": "fontSizes",
+      "$description": ""
+    },
+    "xl": {
+      "$value": "{_text.xl} * {affine-transform.font-size.scaling} + {affine-transform.font-size.offset}",
+      "$type": "fontSizes",
+      "$description": ""
+    },
+    "6xl": {
+      "$value": "{_text.6xl} * {affine-transform.font-size.scaling} + {affine-transform.font-size.offset}",
+      "$type": "fontSizes",
+      "$description": ""
+    },
+    "5xl": {
+      "$value": "{_text.5xl} * {affine-transform.font-size.scaling} + {affine-transform.font-size.offset}",
+      "$type": "fontSizes",
+      "$description": ""
+    },
+    "sm": {
+      "$value": "{_text.sm} * {affine-transform.font-size.scaling} + {affine-transform.font-size.offset}",
+      "$type": "fontSizes",
+      "$description": ""
+    }
+  },
+  "font-weight": {
+    "light": {
+      "$value": "{_font-weight.light} * {affine-transform.font-weight.scaling} + {affine-transform.font-weight.offset}",
+      "$type": "fontWeights",
+      "$description": ""
+    },
+    "extrabold": {
+      "$value": "{_font-weight.extrabold} * {affine-transform.font-weight.scaling} + {affine-transform.font-weight.offset}",
+      "$type": "fontWeights",
+      "$description": ""
+    },
+    "extralight": {
+      "$value": "{_font-weight.extralight} * {affine-transform.font-weight.scaling} + {affine-transform.font-weight.offset}",
+      "$type": "fontWeights",
+      "$description": ""
+    },
+    "medium": {
+      "$value": "{_font-weight.medium} * {affine-transform.font-weight.scaling} + {affine-transform.font-weight.offset}",
+      "$type": "fontWeights",
+      "$description": ""
+    },
+    "normal": {
+      "$value": "{_font-weight.normal} * {affine-transform.font-weight.scaling} + {affine-transform.font-weight.offset}",
+      "$type": "fontWeights",
+      "$description": ""
+    },
+    "thin": {
+      "$value": "{_font-weight.thin} * {affine-transform.font-weight.scaling} + {affine-transform.font-weight.offset}",
+      "$type": "fontWeights",
+      "$description": ""
+    },
+    "black": {
+      "$value": "{_font-weight.black} * {affine-transform.font-weight.scaling} + {affine-transform.font-weight.offset}",
+      "$type": "fontWeights",
+      "$description": ""
+    },
+    "semibold": {
+      "$value": "{_font-weight.semibold} * {affine-transform.font-weight.scaling} + {affine-transform.font-weight.offset}",
+      "$type": "fontWeights",
+      "$description": ""
+    },
+    "bold": {
+      "$value": "{_font-weight.bold} * {affine-transform.font-weight.scaling} + {affine-transform.font-weight.offset}",
+      "$type": "fontWeights",
+      "$description": ""
+    }
+  },
+  "font": {
+    "serif": {
+      "$value": [
+        "{_font.serif}"
+      ],
+      "$type": "fontFamilies",
+      "$description": ""
+    },
+    "mono": {
+      "$value": [
+        "{_font.mono}"
+      ],
+      "$type": "fontFamilies",
+      "$description": ""
+    },
+    "sans": {
+      "$value": [
+        "{_font.sans}"
+      ],
+      "$type": "fontFamilies",
+      "$description": ""
+    }
+  },
+  "perspective": {
+    "near": {
+      "$value": "{_perspective.near}",
+      "$type": "dimension",
+      "$description": ""
+    },
+    "distant": {
+      "$value": "{_perspective.distant}",
+      "$type": "dimension",
+      "$description": ""
+    },
+    "dramatic": {
+      "$value": "{_perspective.dramatic}",
+      "$type": "dimension",
+      "$description": ""
+    },
+    "normal": {
+      "$value": "{_perspective.normal}",
+      "$type": "dimension",
+      "$description": ""
+    },
+    "midrange": {
+      "$value": "{_perspective.midrange}",
+      "$type": "dimension",
+      "$description": ""
+    }
+  },
+  "colors": {
+    "blue": {
+      "100": {
+        "$value": "{_colors.blue.100}",
+        "$type": "color",
+        "$description": ""
+      },
+      "200": {
+        "$value": "{_colors.blue.200}",
+        "$type": "color",
+        "$description": ""
+      },
+      "300": {
+        "$value": "{_colors.blue.300}",
+        "$type": "color",
+        "$description": ""
+      },
+      "400": {
+        "$value": "{_colors.blue.400}",
+        "$type": "color",
+        "$description": ""
+      },
+      "500": {
+        "$value": "{_colors.blue.500}",
+        "$type": "color",
+        "$description": ""
+      },
+      "600": {
+        "$value": "{_colors.blue.600}",
+        "$type": "color",
+        "$description": ""
+      },
+      "700": {
+        "$value": "{_colors.blue.700}",
+        "$type": "color",
+        "$description": ""
+      },
+      "800": {
+        "$value": "{_colors.blue.800}",
+        "$type": "color",
+        "$description": ""
+      },
+      "900": {
+        "$value": "{_colors.blue.900}",
+        "$type": "color",
+        "$description": ""
+      },
+      "950": {
+        "$value": "{_colors.blue.950}",
+        "$type": "color",
+        "$description": ""
+      },
+      "050": {
+        "$value": "{_colors.blue.050}",
+        "$type": "color",
+        "$description": ""
+      }
+    },
+    "cyan": {
+      "100": {
+        "$value": "{_colors.cyan.100}",
+        "$type": "color",
+        "$description": ""
+      },
+      "200": {
+        "$value": "{_colors.cyan.200}",
+        "$type": "color",
+        "$description": ""
+      },
+      "300": {
+        "$value": "{_colors.cyan.300}",
+        "$type": "color",
+        "$description": ""
+      },
+      "400": {
+        "$value": "{_colors.cyan.400}",
+        "$type": "color",
+        "$description": ""
+      },
+      "500": {
+        "$value": "{_colors.cyan.500}",
+        "$type": "color",
+        "$description": ""
+      },
+      "600": {
+        "$value": "{_colors.cyan.600}",
+        "$type": "color",
+        "$description": ""
+      },
+      "700": {
+        "$value": "{_colors.cyan.700}",
+        "$type": "color",
+        "$description": ""
+      },
+      "800": {
+        "$value": "{_colors.cyan.800}",
+        "$type": "color",
+        "$description": ""
+      },
+      "900": {
+        "$value": "{_colors.cyan.900}",
+        "$type": "color",
+        "$description": ""
+      },
+      "950": {
+        "$value": "{_colors.cyan.950}",
+        "$type": "color",
+        "$description": ""
+      },
+      "050": {
+        "$value": "{_colors.cyan.050}",
+        "$type": "color",
+        "$description": ""
+      }
+    },
+    "neutral": {
+      "100": {
+        "$value": "{_colors.neutral.100}",
+        "$type": "color",
+        "$description": ""
+      },
+      "200": {
+        "$value": "{_colors.neutral.200}",
+        "$type": "color",
+        "$description": ""
+      },
+      "300": {
+        "$value": "{_colors.neutral.300}",
+        "$type": "color",
+        "$description": ""
+      },
+      "400": {
+        "$value": "{_colors.neutral.400}",
+        "$type": "color",
+        "$description": ""
+      },
+      "500": {
+        "$value": "{_colors.neutral.500}",
+        "$type": "color",
+        "$description": ""
+      },
+      "600": {
+        "$value": "{_colors.neutral.600}",
+        "$type": "color",
+        "$description": ""
+      },
+      "700": {
+        "$value": "{_colors.neutral.700}",
+        "$type": "color",
+        "$description": ""
+      },
+      "800": {
+        "$value": "{_colors.neutral.800}",
+        "$type": "color",
+        "$description": ""
+      },
+      "900": {
+        "$value": "{_colors.neutral.900}",
+        "$type": "color",
+        "$description": ""
+      },
+      "950": {
+        "$value": "{_colors.neutral.950}",
+        "$type": "color",
+        "$description": ""
+      },
+      "050": {
+        "$value": "{_colors.neutral.050}",
+        "$type": "color",
+        "$description": ""
+      }
+    },
+    "white": {
+      "$value": "{_colors.white}",
+      "$type": "color",
+      "$description": ""
+    },
+    "purple": {
+      "100": {
+        "$value": "{_colors.purple.100}",
+        "$type": "color",
+        "$description": ""
+      },
+      "200": {
+        "$value": "{_colors.purple.200}",
+        "$type": "color",
+        "$description": ""
+      },
+      "300": {
+        "$value": "{_colors.purple.300}",
+        "$type": "color",
+        "$description": ""
+      },
+      "400": {
+        "$value": "{_colors.purple.400}",
+        "$type": "color",
+        "$description": ""
+      },
+      "500": {
+        "$value": "{_colors.purple.500}",
+        "$type": "color",
+        "$description": ""
+      },
+      "600": {
+        "$value": "{_colors.purple.600}",
+        "$type": "color",
+        "$description": ""
+      },
+      "700": {
+        "$value": "{_colors.purple.700}",
+        "$type": "color",
+        "$description": ""
+      },
+      "800": {
+        "$value": "{_colors.purple.800}",
+        "$type": "color",
+        "$description": ""
+      },
+      "900": {
+        "$value": "{_colors.purple.900}",
+        "$type": "color",
+        "$description": ""
+      },
+      "950": {
+        "$value": "{_colors.purple.950}",
+        "$type": "color",
+        "$description": ""
+      },
+      "050": {
+        "$value": "{_colors.purple.050}",
+        "$type": "color",
+        "$description": ""
+      }
+    },
+    "rose": {
+      "100": {
+        "$value": "{_colors.rose.100}",
+        "$type": "color",
+        "$description": ""
+      },
+      "200": {
+        "$value": "{_colors.rose.200}",
+        "$type": "color",
+        "$description": ""
+      },
+      "300": {
+        "$value": "{_colors.rose.300}",
+        "$type": "color",
+        "$description": ""
+      },
+      "400": {
+        "$value": "{_colors.rose.400}",
+        "$type": "color",
+        "$description": ""
+      },
+      "500": {
+        "$value": "{_colors.rose.500}",
+        "$type": "color",
+        "$description": ""
+      },
+      "600": {
+        "$value": "{_colors.rose.600}",
+        "$type": "color",
+        "$description": ""
+      },
+      "700": {
+        "$value": "{_colors.rose.700}",
+        "$type": "color",
+        "$description": ""
+      },
+      "800": {
+        "$value": "{_colors.rose.800}",
+        "$type": "color",
+        "$description": ""
+      },
+      "900": {
+        "$value": "{_colors.rose.900}",
+        "$type": "color",
+        "$description": ""
+      },
+      "950": {
+        "$value": "{_colors.rose.950}",
+        "$type": "color",
+        "$description": ""
+      },
+      "050": {
+        "$value": "{_colors.rose.050}",
+        "$type": "color",
+        "$description": ""
+      }
+    },
+    "orange": {
+      "100": {
+        "$value": "{_colors.orange.100}",
+        "$type": "color",
+        "$description": ""
+      },
+      "200": {
+        "$value": "{_colors.orange.200}",
+        "$type": "color",
+        "$description": ""
+      },
+      "300": {
+        "$value": "{_colors.orange.300}",
+        "$type": "color",
+        "$description": ""
+      },
+      "400": {
+        "$value": "{_colors.orange.400}",
+        "$type": "color",
+        "$description": ""
+      },
+      "500": {
+        "$value": "{_colors.orange.500}",
+        "$type": "color",
+        "$description": ""
+      },
+      "600": {
+        "$value": "{_colors.orange.600}",
+        "$type": "color",
+        "$description": ""
+      },
+      "700": {
+        "$value": "{_colors.orange.700}",
+        "$type": "color",
+        "$description": ""
+      },
+      "800": {
+        "$value": "{_colors.orange.800}",
+        "$type": "color",
+        "$description": ""
+      },
+      "900": {
+        "$value": "{_colors.orange.900}",
+        "$type": "color",
+        "$description": ""
+      },
+      "950": {
+        "$value": "{_colors.orange.950}",
+        "$type": "color",
+        "$description": ""
+      },
+      "050": {
+        "$value": "{_colors.orange.050}",
+        "$type": "color",
+        "$description": ""
+      }
+    },
+    "lime": {
+      "100": {
+        "$value": "{_colors.lime.100}",
+        "$type": "color",
+        "$description": ""
+      },
+      "200": {
+        "$value": "{_colors.lime.200}",
+        "$type": "color",
+        "$description": ""
+      },
+      "300": {
+        "$value": "{_colors.lime.300}",
+        "$type": "color",
+        "$description": ""
+      },
+      "400": {
+        "$value": "{_colors.lime.400}",
+        "$type": "color",
+        "$description": ""
+      },
+      "500": {
+        "$value": "{_colors.lime.500}",
+        "$type": "color",
+        "$description": ""
+      },
+      "600": {
+        "$value": "{_colors.lime.600}",
+        "$type": "color",
+        "$description": ""
+      },
+      "700": {
+        "$value": "{_colors.lime.700}",
+        "$type": "color",
+        "$description": ""
+      },
+      "800": {
+        "$value": "{_colors.lime.800}",
+        "$type": "color",
+        "$description": ""
+      },
+      "900": {
+        "$value": "{_colors.lime.900}",
+        "$type": "color",
+        "$description": ""
+      },
+      "950": {
+        "$value": "{_colors.lime.950}",
+        "$type": "color",
+        "$description": ""
+      },
+      "050": {
+        "$value": "{_colors.lime.050}",
+        "$type": "color",
+        "$description": ""
+      }
+    },
+    "violet": {
+      "100": {
+        "$value": "{_colors.violet.100}",
+        "$type": "color",
+        "$description": ""
+      },
+      "200": {
+        "$value": "{_colors.violet.200}",
+        "$type": "color",
+        "$description": ""
+      },
+      "300": {
+        "$value": "{_colors.violet.300}",
+        "$type": "color",
+        "$description": ""
+      },
+      "400": {
+        "$value": "{_colors.violet.400}",
+        "$type": "color",
+        "$description": ""
+      },
+      "500": {
+        "$value": "{_colors.violet.500}",
+        "$type": "color",
+        "$description": ""
+      },
+      "600": {
+        "$value": "{_colors.violet.600}",
+        "$type": "color",
+        "$description": ""
+      },
+      "700": {
+        "$value": "{_colors.violet.700}",
+        "$type": "color",
+        "$description": ""
+      },
+      "800": {
+        "$value": "{_colors.violet.800}",
+        "$type": "color",
+        "$description": ""
+      },
+      "900": {
+        "$value": "{_colors.violet.900}",
+        "$type": "color",
+        "$description": ""
+      },
+      "950": {
+        "$value": "{_colors.violet.950}",
+        "$type": "color",
+        "$description": ""
+      },
+      "050": {
+        "$value": "{_colors.violet.050}",
+        "$type": "color",
+        "$description": ""
+      }
+    },
+    "gray": {
+      "100": {
+        "$value": "{_colors.gray.100}",
+        "$type": "color",
+        "$description": ""
+      },
+      "200": {
+        "$value": "{_colors.gray.200}",
+        "$type": "color",
+        "$description": ""
+      },
+      "300": {
+        "$value": "{_colors.gray.300}",
+        "$type": "color",
+        "$description": ""
+      },
+      "400": {
+        "$value": "{_colors.gray.400}",
+        "$type": "color",
+        "$description": ""
+      },
+      "500": {
+        "$value": "{_colors.gray.500}",
+        "$type": "color",
+        "$description": ""
+      },
+      "600": {
+        "$value": "{_colors.gray.600}",
+        "$type": "color",
+        "$description": ""
+      },
+      "700": {
+        "$value": "{_colors.gray.700}",
+        "$type": "color",
+        "$description": ""
+      },
+      "800": {
+        "$value": "{_colors.gray.800}",
+        "$type": "color",
+        "$description": ""
+      },
+      "900": {
+        "$value": "{_colors.gray.900}",
+        "$type": "color",
+        "$description": ""
+      },
+      "950": {
+        "$value": "{_colors.gray.950}",
+        "$type": "color",
+        "$description": ""
+      },
+      "050": {
+        "$value": "{_colors.gray.050}",
+        "$type": "color",
+        "$description": ""
+      }
+    },
+    "fuchsia": {
+      "100": {
+        "$value": "{_colors.fuchsia.100}",
+        "$type": "color",
+        "$description": ""
+      },
+      "200": {
+        "$value": "{_colors.fuchsia.200}",
+        "$type": "color",
+        "$description": ""
+      },
+      "300": {
+        "$value": "{_colors.fuchsia.300}",
+        "$type": "color",
+        "$description": ""
+      },
+      "400": {
+        "$value": "{_colors.fuchsia.400}",
+        "$type": "color",
+        "$description": ""
+      },
+      "500": {
+        "$value": "{_colors.fuchsia.500}",
+        "$type": "color",
+        "$description": ""
+      },
+      "600": {
+        "$value": "{_colors.fuchsia.600}",
+        "$type": "color",
+        "$description": ""
+      },
+      "700": {
+        "$value": "{_colors.fuchsia.700}",
+        "$type": "color",
+        "$description": ""
+      },
+      "800": {
+        "$value": "{_colors.fuchsia.800}",
+        "$type": "color",
+        "$description": ""
+      },
+      "900": {
+        "$value": "{_colors.fuchsia.900}",
+        "$type": "color",
+        "$description": ""
+      },
+      "950": {
+        "$value": "{_colors.fuchsia.950}",
+        "$type": "color",
+        "$description": ""
+      },
+      "050": {
+        "$value": "{_colors.fuchsia.050}",
+        "$type": "color",
+        "$description": ""
+      }
+    },
+    "yellow": {
+      "100": {
+        "$value": "{_colors.yellow.100}",
+        "$type": "color",
+        "$description": ""
+      },
+      "200": {
+        "$value": "{_colors.yellow.200}",
+        "$type": "color",
+        "$description": ""
+      },
+      "300": {
+        "$value": "{_colors.yellow.300}",
+        "$type": "color",
+        "$description": ""
+      },
+      "400": {
+        "$value": "{_colors.yellow.400}",
+        "$type": "color",
+        "$description": ""
+      },
+      "500": {
+        "$value": "{_colors.yellow.500}",
+        "$type": "color",
+        "$description": ""
+      },
+      "600": {
+        "$value": "{_colors.yellow.600}",
+        "$type": "color",
+        "$description": ""
+      },
+      "700": {
+        "$value": "{_colors.yellow.700}",
+        "$type": "color",
+        "$description": ""
+      },
+      "800": {
+        "$value": "{_colors.yellow.800}",
+        "$type": "color",
+        "$description": ""
+      },
+      "900": {
+        "$value": "{_colors.yellow.900}",
+        "$type": "color",
+        "$description": ""
+      },
+      "950": {
+        "$value": "{_colors.yellow.950}",
+        "$type": "color",
+        "$description": ""
+      },
+      "050": {
+        "$value": "{_colors.yellow.050}",
+        "$type": "color",
+        "$description": ""
+      }
+    },
+    "pink": {
+      "100": {
+        "$value": "{_colors.pink.100}",
+        "$type": "color",
+        "$description": ""
+      },
+      "200": {
+        "$value": "{_colors.pink.200}",
+        "$type": "color",
+        "$description": ""
+      },
+      "300": {
+        "$value": "{_colors.pink.300}",
+        "$type": "color",
+        "$description": ""
+      },
+      "400": {
+        "$value": "{_colors.pink.400}",
+        "$type": "color",
+        "$description": ""
+      },
+      "500": {
+        "$value": "{_colors.pink.500}",
+        "$type": "color",
+        "$description": ""
+      },
+      "600": {
+        "$value": "{_colors.pink.600}",
+        "$type": "color",
+        "$description": ""
+      },
+      "700": {
+        "$value": "{_colors.pink.700}",
+        "$type": "color",
+        "$description": ""
+      },
+      "800": {
+        "$value": "{_colors.pink.800}",
+        "$type": "color",
+        "$description": ""
+      },
+      "900": {
+        "$value": "{_colors.pink.900}",
+        "$type": "color",
+        "$description": ""
+      },
+      "950": {
+        "$value": "{_colors.pink.950}",
+        "$type": "color",
+        "$description": ""
+      },
+      "050": {
+        "$value": "{_colors.pink.050}",
+        "$type": "color",
+        "$description": ""
+      }
+    },
+    "stone": {
+      "100": {
+        "$value": "{_colors.stone.100}",
+        "$type": "color",
+        "$description": ""
+      },
+      "200": {
+        "$value": "{_colors.stone.200}",
+        "$type": "color",
+        "$description": ""
+      },
+      "300": {
+        "$value": "{_colors.stone.300}",
+        "$type": "color",
+        "$description": ""
+      },
+      "400": {
+        "$value": "{_colors.stone.400}",
+        "$type": "color",
+        "$description": ""
+      },
+      "500": {
+        "$value": "{_colors.stone.500}",
+        "$type": "color",
+        "$description": ""
+      },
+      "600": {
+        "$value": "{_colors.stone.600}",
+        "$type": "color",
+        "$description": ""
+      },
+      "700": {
+        "$value": "{_colors.stone.700}",
+        "$type": "color",
+        "$description": ""
+      },
+      "800": {
+        "$value": "{_colors.stone.800}",
+        "$type": "color",
+        "$description": ""
+      },
+      "900": {
+        "$value": "{_colors.stone.900}",
+        "$type": "color",
+        "$description": ""
+      },
+      "950": {
+        "$value": "{_colors.stone.950}",
+        "$type": "color",
+        "$description": ""
+      },
+      "050": {
+        "$value": "{_colors.stone.050}",
+        "$type": "color",
+        "$description": ""
+      }
+    },
+    "teal": {
+      "100": {
+        "$value": "{_colors.teal.100}",
+        "$type": "color",
+        "$description": ""
+      },
+      "200": {
+        "$value": "{_colors.teal.200}",
+        "$type": "color",
+        "$description": ""
+      },
+      "300": {
+        "$value": "{_colors.teal.300}",
+        "$type": "color",
+        "$description": ""
+      },
+      "400": {
+        "$value": "{_colors.teal.400}",
+        "$type": "color",
+        "$description": ""
+      },
+      "500": {
+        "$value": "{_colors.teal.500}",
+        "$type": "color",
+        "$description": ""
+      },
+      "600": {
+        "$value": "{_colors.teal.600}",
+        "$type": "color",
+        "$description": ""
+      },
+      "700": {
+        "$value": "{_colors.teal.700}",
+        "$type": "color",
+        "$description": ""
+      },
+      "800": {
+        "$value": "{_colors.teal.800}",
+        "$type": "color",
+        "$description": ""
+      },
+      "900": {
+        "$value": "{_colors.teal.900}",
+        "$type": "color",
+        "$description": ""
+      },
+      "950": {
+        "$value": "{_colors.teal.950}",
+        "$type": "color",
+        "$description": ""
+      },
+      "050": {
+        "$value": "{_colors.teal.050}",
+        "$type": "color",
+        "$description": ""
+      }
+    },
+    "zinc": {
+      "100": {
+        "$value": "{_colors.zinc.100}",
+        "$type": "color",
+        "$description": ""
+      },
+      "200": {
+        "$value": "{_colors.zinc.200}",
+        "$type": "color",
+        "$description": ""
+      },
+      "300": {
+        "$value": "{_colors.zinc.300}",
+        "$type": "color",
+        "$description": ""
+      },
+      "400": {
+        "$value": "{_colors.zinc.400}",
+        "$type": "color",
+        "$description": ""
+      },
+      "500": {
+        "$value": "{_colors.zinc.500}",
+        "$type": "color",
+        "$description": ""
+      },
+      "600": {
+        "$value": "{_colors.zinc.600}",
+        "$type": "color",
+        "$description": ""
+      },
+      "700": {
+        "$value": "{_colors.zinc.700}",
+        "$type": "color",
+        "$description": ""
+      },
+      "800": {
+        "$value": "{_colors.zinc.800}",
+        "$type": "color",
+        "$description": ""
+      },
+      "900": {
+        "$value": "{_colors.zinc.900}",
+        "$type": "color",
+        "$description": ""
+      },
+      "950": {
+        "$value": "{_colors.zinc.950}",
+        "$type": "color",
+        "$description": ""
+      },
+      "050": {
+        "$value": "{_colors.zinc.050}",
+        "$type": "color",
+        "$description": ""
+      }
+    },
+    "green": {
+      "100": {
+        "$value": "{_colors.green.100}",
+        "$type": "color",
+        "$description": ""
+      },
+      "200": {
+        "$value": "{_colors.green.200}",
+        "$type": "color",
+        "$description": ""
+      },
+      "300": {
+        "$value": "{_colors.green.300}",
+        "$type": "color",
+        "$description": ""
+      },
+      "400": {
+        "$value": "{_colors.green.400}",
+        "$type": "color",
+        "$description": ""
+      },
+      "500": {
+        "$value": "{_colors.green.500}",
+        "$type": "color",
+        "$description": ""
+      },
+      "600": {
+        "$value": "{_colors.green.600}",
+        "$type": "color",
+        "$description": ""
+      },
+      "700": {
+        "$value": "{_colors.green.700}",
+        "$type": "color",
+        "$description": ""
+      },
+      "800": {
+        "$value": "{_colors.green.800}",
+        "$type": "color",
+        "$description": ""
+      },
+      "900": {
+        "$value": "{_colors.green.900}",
+        "$type": "color",
+        "$description": ""
+      },
+      "950": {
+        "$value": "{_colors.green.950}",
+        "$type": "color",
+        "$description": ""
+      },
+      "050": {
+        "$value": "{_colors.green.050}",
+        "$type": "color",
+        "$description": ""
+      }
+    },
+    "red": {
+      "100": {
+        "$value": "{_colors.red.100}",
+        "$type": "color",
+        "$description": ""
+      },
+      "200": {
+        "$value": "{_colors.red.200}",
+        "$type": "color",
+        "$description": ""
+      },
+      "300": {
+        "$value": "{_colors.red.300}",
+        "$type": "color",
+        "$description": ""
+      },
+      "400": {
+        "$value": "{_colors.red.400}",
+        "$type": "color",
+        "$description": ""
+      },
+      "500": {
+        "$value": "{_colors.red.500}",
+        "$type": "color",
+        "$description": ""
+      },
+      "600": {
+        "$value": "{_colors.red.600}",
+        "$type": "color",
+        "$description": ""
+      },
+      "700": {
+        "$value": "{_colors.red.700}",
+        "$type": "color",
+        "$description": ""
+      },
+      "800": {
+        "$value": "{_colors.red.800}",
+        "$type": "color",
+        "$description": ""
+      },
+      "900": {
+        "$value": "{_colors.red.900}",
+        "$type": "color",
+        "$description": ""
+      },
+      "950": {
+        "$value": "{_colors.red.950}",
+        "$type": "color",
+        "$description": ""
+      },
+      "050": {
+        "$value": "{_colors.red.050}",
+        "$type": "color",
+        "$description": ""
+      }
+    },
+    "black": {
+      "$value": "{_colors.black}",
+      "$type": "color",
+      "$description": ""
+    },
+    "slate": {
+      "100": {
+        "$value": "{_colors.slate.100}",
+        "$type": "color",
+        "$description": ""
+      },
+      "200": {
+        "$value": "{_colors.slate.200}",
+        "$type": "color",
+        "$description": ""
+      },
+      "300": {
+        "$value": "{_colors.slate.300}",
+        "$type": "color",
+        "$description": ""
+      },
+      "400": {
+        "$value": "{_colors.slate.400}",
+        "$type": "color",
+        "$description": ""
+      },
+      "500": {
+        "$value": "{_colors.slate.500}",
+        "$type": "color",
+        "$description": ""
+      },
+      "600": {
+        "$value": "{_colors.slate.600}",
+        "$type": "color",
+        "$description": ""
+      },
+      "700": {
+        "$value": "{_colors.slate.700}",
+        "$type": "color",
+        "$description": ""
+      },
+      "800": {
+        "$value": "{_colors.slate.800}",
+        "$type": "color",
+        "$description": ""
+      },
+      "900": {
+        "$value": "{_colors.slate.900}",
+        "$type": "color",
+        "$description": ""
+      },
+      "950": {
+        "$value": "{_colors.slate.950}",
+        "$type": "color",
+        "$description": ""
+      },
+      "050": {
+        "$value": "{_colors.slate.050}",
+        "$type": "color",
+        "$description": ""
+      }
+    },
+    "amber": {
+      "100": {
+        "$value": "{_colors.amber.100}",
+        "$type": "color",
+        "$description": ""
+      },
+      "200": {
+        "$value": "{_colors.amber.200}",
+        "$type": "color",
+        "$description": ""
+      },
+      "300": {
+        "$value": "{_colors.amber.300}",
+        "$type": "color",
+        "$description": ""
+      },
+      "400": {
+        "$value": "{_colors.amber.400}",
+        "$type": "color",
+        "$description": ""
+      },
+      "500": {
+        "$value": "{_colors.amber.500}",
+        "$type": "color",
+        "$description": ""
+      },
+      "600": {
+        "$value": "{_colors.amber.600}",
+        "$type": "color",
+        "$description": ""
+      },
+      "700": {
+        "$value": "{_colors.amber.700}",
+        "$type": "color",
+        "$description": ""
+      },
+      "800": {
+        "$value": "{_colors.amber.800}",
+        "$type": "color",
+        "$description": ""
+      },
+      "900": {
+        "$value": "{_colors.amber.900}",
+        "$type": "color",
+        "$description": ""
+      },
+      "950": {
+        "$value": "{_colors.amber.950}",
+        "$type": "color",
+        "$description": ""
+      },
+      "050": {
+        "$value": "{_colors.amber.050}",
+        "$type": "color",
+        "$description": ""
+      }
+    },
+    "indigo": {
+      "100": {
+        "$value": "{_colors.indigo.100}",
+        "$type": "color",
+        "$description": ""
+      },
+      "200": {
+        "$value": "{_colors.indigo.200}",
+        "$type": "color",
+        "$description": ""
+      },
+      "300": {
+        "$value": "{_colors.indigo.300}",
+        "$type": "color",
+        "$description": ""
+      },
+      "400": {
+        "$value": "{_colors.indigo.400}",
+        "$type": "color",
+        "$description": ""
+      },
+      "500": {
+        "$value": "{_colors.indigo.500}",
+        "$type": "color",
+        "$description": ""
+      },
+      "600": {
+        "$value": "{_colors.indigo.600}",
+        "$type": "color",
+        "$description": ""
+      },
+      "700": {
+        "$value": "{_colors.indigo.700}",
+        "$type": "color",
+        "$description": ""
+      },
+      "800": {
+        "$value": "{_colors.indigo.800}",
+        "$type": "color",
+        "$description": ""
+      },
+      "900": {
+        "$value": "{_colors.indigo.900}",
+        "$type": "color",
+        "$description": ""
+      },
+      "950": {
+        "$value": "{_colors.indigo.950}",
+        "$type": "color",
+        "$description": ""
+      },
+      "050": {
+        "$value": "{_colors.indigo.050}",
+        "$type": "color",
+        "$description": ""
+      }
+    },
+    "emerald": {
+      "100": {
+        "$value": "{_colors.emerald.100}",
+        "$type": "color",
+        "$description": ""
+      },
+      "200": {
+        "$value": "{_colors.emerald.200}",
+        "$type": "color",
+        "$description": ""
+      },
+      "300": {
+        "$value": "{_colors.emerald.300}",
+        "$type": "color",
+        "$description": ""
+      },
+      "400": {
+        "$value": "{_colors.emerald.400}",
+        "$type": "color",
+        "$description": ""
+      },
+      "500": {
+        "$value": "{_colors.emerald.500}",
+        "$type": "color",
+        "$description": ""
+      },
+      "600": {
+        "$value": "{_colors.emerald.600}",
+        "$type": "color",
+        "$description": ""
+      },
+      "700": {
+        "$value": "{_colors.emerald.700}",
+        "$type": "color",
+        "$description": ""
+      },
+      "800": {
+        "$value": "{_colors.emerald.800}",
+        "$type": "color",
+        "$description": ""
+      },
+      "900": {
+        "$value": "{_colors.emerald.900}",
+        "$type": "color",
+        "$description": ""
+      },
+      "950": {
+        "$value": "{_colors.emerald.950}",
+        "$type": "color",
+        "$description": ""
+      },
+      "050": {
+        "$value": "{_colors.emerald.050}",
+        "$type": "color",
+        "$description": ""
+      }
+    },
+    "sky": {
+      "100": {
+        "$value": "{_colors.sky.100}",
+        "$type": "color",
+        "$description": ""
+      },
+      "200": {
+        "$value": "{_colors.sky.200}",
+        "$type": "color",
+        "$description": ""
+      },
+      "300": {
+        "$value": "{_colors.sky.300}",
+        "$type": "color",
+        "$description": ""
+      },
+      "400": {
+        "$value": "{_colors.sky.400}",
+        "$type": "color",
+        "$description": ""
+      },
+      "500": {
+        "$value": "{_colors.sky.500}",
+        "$type": "color",
+        "$description": ""
+      },
+      "600": {
+        "$value": "{_colors.sky.600}",
+        "$type": "color",
+        "$description": ""
+      },
+      "700": {
+        "$value": "{_colors.sky.700}",
+        "$type": "color",
+        "$description": ""
+      },
+      "800": {
+        "$value": "{_colors.sky.800}",
+        "$type": "color",
+        "$description": ""
+      },
+      "900": {
+        "$value": "{_colors.sky.900}",
+        "$type": "color",
+        "$description": ""
+      },
+      "950": {
+        "$value": "{_colors.sky.950}",
+        "$type": "color",
+        "$description": ""
+      },
+      "050": {
+        "$value": "{_colors.sky.050}",
+        "$type": "color",
+        "$description": ""
+      }
+    }
+  },
+  "blur": {
+    "3xl": {
+      "$value": "{_blur.3xl} * {affine-transform.blur.scaling} + {affine-transform.blur.offset} ",
+      "$type": "dimension",
+      "$description": ""
+    },
+    "sm": {
+      "$value": "{_blur.sm} * {affine-transform.blur.scaling} + {affine-transform.blur.offset} ",
+      "$type": "dimension",
+      "$description": ""
+    },
+    "md": {
+      "$value": "{_blur.md} * {affine-transform.blur.scaling} + {affine-transform.blur.offset} ",
+      "$type": "dimension",
+      "$description": ""
+    },
+    "2xl": {
+      "$value": "{_blur.2xl} * {affine-transform.blur.scaling} + {affine-transform.blur.offset} ",
+      "$type": "dimension",
+      "$description": ""
+    },
+    "lg": {
+      "$value": "{_blur.lg} * {affine-transform.blur.scaling} + {affine-transform.blur.offset} ",
+      "$type": "dimension",
+      "$description": ""
+    },
+    "xl": {
+      "$value": "{_blur.xl} * {affine-transform.blur.scaling} + {affine-transform.blur.offset} ",
+      "$type": "dimension",
+      "$description": ""
+    },
+    "xs": {
+      "$value": "{_blur.xs} * {affine-transform.blur.scaling} + {affine-transform.blur.offset} ",
+      "$type": "dimension",
+      "$description": ""
+    }
+  },
+  "rotate": {
+    "105": {
+      "$value": "{_rotate.105}",
+      "$type": "rotation",
+      "$description": "rotates object by 105 degrees"
+    },
+    "120": {
+      "$value": "{_rotate.120}",
+      "$type": "rotation",
+      "$description": "rotates object by 120 degrees"
+    },
+    "135": {
+      "$value": "{_rotate.135}",
+      "$type": "rotation",
+      "$description": "rotates object by 135 degrees"
+    },
+    "150": {
+      "$value": "{_rotate.150}",
+      "$type": "rotation",
+      "$description": "rotates object by 150 degrees"
+    },
+    "165": {
+      "$value": "{_rotate.165}",
+      "$type": "rotation",
+      "$description": "rotates object by 165 degrees"
+    },
+    "180": {
+      "$value": "{_rotate.180}",
+      "$type": "rotation",
+      "$description": "rotates object by 180 degrees"
+    },
+    "195": {
+      "$value": "{_rotate.195}",
+      "$type": "rotation",
+      "$description": "rotates object by 195 degrees"
+    },
+    "210": {
+      "$value": "{_rotate.210}",
+      "$type": "rotation",
+      "$description": "rotates object by 210 degrees"
+    },
+    "225": {
+      "$value": "{_rotate.225}",
+      "$type": "rotation",
+      "$description": "rotates object by 225 degrees"
+    },
+    "240": {
+      "$value": "{_rotate.240}",
+      "$type": "rotation",
+      "$description": "rotates object by 240 degrees"
+    },
+    "255": {
+      "$value": "{_rotate.255}",
+      "$type": "rotation",
+      "$description": "rotates object by 255 degrees"
+    },
+    "270": {
+      "$value": "{_rotate.270}",
+      "$type": "rotation",
+      "$description": "rotates object by 270 degrees"
+    },
+    "285": {
+      "$value": "{_rotate.285}",
+      "$type": "rotation",
+      "$description": "rotates object by 285 degrees"
+    },
+    "300": {
+      "$value": "{_rotate.300}",
+      "$type": "rotation",
+      "$description": "rotates object by 300 degrees"
+    },
+    "315": {
+      "$value": "{_rotate.315}",
+      "$type": "rotation",
+      "$description": "rotates object by 315 degrees"
+    },
+    "330": {
+      "$value": "{_rotate.330}",
+      "$type": "rotation",
+      "$description": "rotates object by 330 degrees"
+    },
+    "345": {
+      "$value": "{_rotate.345}",
+      "$type": "rotation",
+      "$description": "rotates object by 345 degrees"
+    },
+    "090": {
+      "$value": "{_rotate.090}",
+      "$type": "rotation",
+      "$description": "rotates object by 90 degrees"
+    },
+    "015": {
+      "$value": "{_rotate.015}",
+      "$type": "rotation",
+      "$description": "rotates object by +15 degrees"
+    },
+    "045": {
+      "$value": "{_rotate.045}",
+      "$type": "rotation",
+      "$description": "rotates object by 45 degrees"
+    },
+    "075": {
+      "$value": "{_rotate.075}",
+      "$type": "rotation",
+      "$description": "rotates object by 75 degrees"
+    },
+    "030": {
+      "$value": "{_rotate.030}",
+      "$type": "rotation",
+      "$description": "rotates object by 30 degrees"
+    },
+    "060": {
+      "$value": "{_rotate.060}",
+      "$type": "rotation",
+      "$description": "rotates object by 60 degrees"
+    }
+  },
+  "opacity": {
+    "100": {
+      "$value": "{_opacity.100} * {affine-transform.opacity.scaling} + {affine-transform.opacity.offset}",
+      "$type": "opacity",
+      "$description": "100% corresponds to opacity-100"
+    },
+    "090": {
+      "$value": "{_opacity.090} * {affine-transform.opacity.scaling} + {affine-transform.opacity.offset}",
+      "$type": "opacity",
+      "$description": "90% corresponds to opacity-90"
+    },
+    "095": {
+      "$value": "{_opacity.095} * {affine-transform.opacity.scaling} + {affine-transform.opacity.offset}",
+      "$type": "opacity",
+      "$description": "95% corresponds to opacity-95"
+    },
+    "040": {
+      "$value": "{_opacity.040} * {affine-transform.opacity.scaling} + {affine-transform.opacity.offset}",
+      "$type": "opacity",
+      "$description": "40% corresponds to opacity-40"
+    },
+    "015": {
+      "$value": "{_opacity.015} * {affine-transform.opacity.scaling} + {affine-transform.opacity.offset} * {affine-transform.opacity.scaling} + {affine-transform.opacity.offset}",
+      "$type": "opacity",
+      "$description": "15% corresponds to opacity-15"
+    },
+    "035": {
+      "$value": "{_opacity.035} * {affine-transform.opacity.scaling} + {affine-transform.opacity.offset}",
+      "$type": "opacity",
+      "$description": "35% corresponds to opacity-35"
+    },
+    "020": {
+      "$value": "{_opacity.020} * {affine-transform.opacity.scaling} + {affine-transform.opacity.offset}",
+      "$type": "opacity",
+      "$description": "20% corresponds to opacity-20"
+    },
+    "065": {
+      "$value": "{_opacity.065} * {affine-transform.opacity.scaling} + {affine-transform.opacity.offset}",
+      "$type": "opacity",
+      "$description": "65% corresponds to opacity-65"
+    },
+    "055": {
+      "$value": "{_opacity.055} * {affine-transform.opacity.scaling} + {affine-transform.opacity.offset}",
+      "$type": "opacity",
+      "$description": "55% corresponds to opacity-55"
+    },
+    "070": {
+      "$value": "{_opacity.070} * {affine-transform.opacity.scaling} + {affine-transform.opacity.offset}",
+      "$type": "opacity",
+      "$description": "70% corresponds to opacity-70"
+    },
+    "050": {
+      "$value": "{_opacity.050} * {affine-transform.opacity.scaling} + {affine-transform.opacity.offset}",
+      "$type": "opacity",
+      "$description": "50% corresponds to opacity-50"
+    },
+    "045": {
+      "$value": "{_opacity.045} * {affine-transform.opacity.scaling} + {affine-transform.opacity.offset}",
+      "$type": "opacity",
+      "$description": "45% corresponds to opacity-45"
+    },
+    "075": {
+      "$value": "{_opacity.075} * {affine-transform.opacity.scaling} + {affine-transform.opacity.offset}",
+      "$type": "opacity",
+      "$description": "75% corresponds to opacity-75"
+    },
+    "025": {
+      "$value": "{_opacity.025} * {affine-transform.opacity.scaling} + {affine-transform.opacity.offset}",
+      "$type": "opacity",
+      "$description": "25% corresponds to opacity-25"
+    },
+    "080": {
+      "$value": "{_opacity.080} * {affine-transform.opacity.scaling} + {affine-transform.opacity.offset}",
+      "$type": "opacity",
+      "$description": "80% corresponds to opacity-80"
+    },
+    "005": {
+      "$value": "{_opacity.005} * {affine-transform.opacity.scaling} + {affine-transform.opacity.offset}",
+      "$type": "opacity",
+      "$description": "5% corresponds to opacity-5"
+    },
+    "030": {
+      "$value": "{_opacity.030} * {affine-transform.opacity.scaling} + {affine-transform.opacity.offset}",
+      "$type": "opacity",
+      "$description": "30% corresponds to opacity-30"
+    },
+    "085": {
+      "$value": "{_opacity.085} * {affine-transform.opacity.scaling} + {affine-transform.opacity.offset}",
+      "$type": "opacity",
+      "$description": "85% corresponds to opacity-85"
+    },
+    "060": {
+      "$value": "{_opacity.060} * {affine-transform.opacity.scaling} + {affine-transform.opacity.offset}",
+      "$type": "opacity",
+      "$description": "60% corresponds to opacity-60"
+    },
+    "010": {
+      "$value": "{_opacity.010} * {affine-transform.opacity.scaling} + {affine-transform.opacity.offset}",
+      "$type": "opacity",
+      "$description": "5% corresponds to opacity-10"
+    }
+  },
+  "container": {
+    "xs": {
+      "$value": "{_container.xs} * {affine-transform.container.scaling} + {affine-transform.container.offset}",
+      "$type": "dimension",
+      "$description": "Container token can be used to set the min and max width to match the current breakpoint."
+    },
+    "md": {
+      "$value": "{_container.md} * {affine-transform.container.scaling} + {affine-transform.container.offset}",
+      "$type": "dimension",
+      "$description": "Container token can be used to set the min and max width to match the current breakpoint."
+    },
+    "3xl": {
+      "$value": "{_container.3xl} * {affine-transform.container.scaling} + {affine-transform.container.offset}",
+      "$type": "dimension",
+      "$description": "Container token can be used to set the min and max width to match the current breakpoint."
+    },
+    "4xl": {
+      "$value": "{_container.4xl} * {affine-transform.container.scaling} + {affine-transform.container.offset}",
+      "$type": "dimension",
+      "$description": "Container token can be used to set the min and max width to match the current breakpoint."
+    },
+    "7xl": {
+      "$value": "{_container.7xl} * {affine-transform.container.scaling} + {affine-transform.container.offset}",
+      "$type": "dimension",
+      "$description": "Container token can be used to set the min and max width to match the current breakpoint."
+    },
+    "3xs": {
+      "$value": "{_container.3xs} * {affine-transform.container.scaling} + {affine-transform.container.offset}",
+      "$type": "dimension",
+      "$description": "Container token can be used to set the min and max width to match the current breakpoint."
+    },
+    "2xl": {
+      "$value": "{_container.2xl} * {affine-transform.container.scaling} + {affine-transform.container.offset}",
+      "$type": "dimension",
+      "$description": "Container token can be used to set the min and max width to match the current breakpoint."
+    },
+    "lg": {
+      "$value": "{_container.lg} * {affine-transform.container.scaling} + {affine-transform.container.offset}",
+      "$type": "dimension",
+      "$description": "Container token can be used to set the min and max width to match the current breakpoint."
+    },
+    "xl": {
+      "$value": "{_container.xl} * {affine-transform.container.scaling} + {affine-transform.container.offset}",
+      "$type": "dimension",
+      "$description": "Container token can be used to set the min and max width to match the current breakpoint."
+    },
+    "6xl": {
+      "$value": "{_container.6xl} * {affine-transform.container.scaling} + {affine-transform.container.offset}",
+      "$type": "dimension",
+      "$description": "Container token can be used to set the min and max width to match the current breakpoint."
+    },
+    "5xl": {
+      "$value": "{_container.5xl} * {affine-transform.container.scaling} + {affine-transform.container.offset}",
+      "$type": "dimension",
+      "$description": "Container token can be used to set the min and max width to match the current breakpoint."
+    },
+    "sm": {
+      "$value": "{_container.sm} * {affine-transform.container.scaling} + {affine-transform.container.offset}",
+      "$type": "dimension",
+      "$description": "Container token can be used to set the min and max width to match the current breakpoint."
+    },
+    "2xs": {
+      "$value": "{_container.2xs} * {affine-transform.container.scaling} + {affine-transform.container.offset}",
+      "$type": "dimension",
+      "$description": "Container token can be used to set the min and max width to match the current breakpoint."
+    }
+  }
+}

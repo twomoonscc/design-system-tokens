@@ -1,0 +1,27 @@
+[
+  {
+    "id": "eb6ab281-812c-805a-8007-10874dfd807a",
+    "name": "Global",
+    "group": "Always enabled",
+    "description": "",
+    "isSource": false,
+    "selectedTokenSets": {
+      "Theme config: Base": "enabled",
+      "tailwind-primitives": "enabled",
+      "custom-colors": "enabled",
+      "Foundation": "enabled",
+      "custom-text": "enabled",
+      "typography": "enabled"
+    }
+  },
+  {
+    "id": "eb6ab281-812c-805a-8007-1087a51810fb",
+    "name": "Vanilla Tailwind",
+    "group": "Tailwind Config",
+    "description": "",
+    "isSource": false,
+    "selectedTokenSets": {
+      "Theme config: Base": "enabled"
+    }
+  }
+]

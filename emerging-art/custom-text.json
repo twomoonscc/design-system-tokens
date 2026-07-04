@@ -1,0 +1,314 @@
+{
+  "_custom_text": {
+    "textDecoration": {
+      "caption": {
+        "$value": "none",
+        "$type": "textDecoration",
+        "$description": ""
+      },
+      "h4": {
+        "$value": "none",
+        "$type": "textDecoration",
+        "$description": ""
+      },
+      "lead": {
+        "$value": "none",
+        "$type": "textDecoration",
+        "$description": ""
+      },
+      "h1": {
+        "$value": "none",
+        "$type": "textDecoration",
+        "$description": ""
+      },
+      "h2": {
+        "$value": "none",
+        "$type": "textDecoration",
+        "$description": ""
+      },
+      "micro": {
+        "$value": "none",
+        "$type": "textDecoration",
+        "$description": ""
+      },
+      "h3": {
+        "$value": "none",
+        "$type": "textDecoration",
+        "$description": ""
+      },
+      "body": {
+        "$value": "none",
+        "$type": "textDecoration",
+        "$description": ""
+      }
+    },
+    "letterSpacing": {
+      "h2": {
+        "$value": "-0.56px",
+        "$type": "letterSpacing",
+        "$description": ""
+      },
+      "lead": {
+        "$value": "0px",
+        "$type": "letterSpacing",
+        "$description": ""
+      },
+      "h4": {
+        "$value": "0px",
+        "$type": "letterSpacing",
+        "$description": ""
+      },
+      "h1": {
+        "$value": "0px",
+        "$type": "letterSpacing",
+        "$description": ""
+      },
+      "micro": {
+        "$value": "1.54px",
+        "$type": "letterSpacing",
+        "$description": ""
+      },
+      "caption": {
+        "$value": "0px",
+        "$type": "letterSpacing",
+        "$description": ""
+      },
+      "h3": {
+        "$value": "-0.44px",
+        "$type": "letterSpacing",
+        "$description": ""
+      },
+      "body": {
+        "$value": "0px",
+        "$type": "letterSpacing",
+        "$description": ""
+      }
+    },
+    "lineHeights": {
+      "micro": {
+        "$value": "13px",
+        "$type": "dimension",
+        "$description": ""
+      },
+      "h4": {
+        "$value": "41px",
+        "$type": "dimension",
+        "$description": ""
+      },
+      "h2": {
+        "$value": "56px",
+        "$type": "dimension",
+        "$description": ""
+      },
+      "h3": {
+        "$value": "53px",
+        "$type": "dimension",
+        "$description": ""
+      },
+      "h1": {
+        "$value": "190px",
+        "$type": "dimension",
+        "$description": ""
+      },
+      "caption": {
+        "$value": "14px",
+        "$type": "dimension",
+        "$description": ""
+      },
+      "body": {
+        "$value": "25px",
+        "$type": "dimension",
+        "$description": ""
+      },
+      "lead": {
+        "$value": "26px",
+        "$type": "dimension",
+        "$description": ""
+      }
+    },
+    "textCase": {
+      "lead": {
+        "$value": "none",
+        "$type": "textCase",
+        "$description": ""
+      },
+      "h2": {
+        "$value": "none",
+        "$type": "textCase",
+        "$description": ""
+      },
+      "h3": {
+        "$value": "none",
+        "$type": "textCase",
+        "$description": ""
+      },
+      "h1": {
+        "$value": "none",
+        "$type": "textCase",
+        "$description": ""
+      },
+      "body": {
+        "$value": "none",
+        "$type": "textCase",
+        "$description": ""
+      },
+      "h4": {
+        "$value": "none",
+        "$type": "textCase",
+        "$description": ""
+      },
+      "micro": {
+        "$value": "uppercase",
+        "$type": "textCase",
+        "$description": ""
+      },
+      "caption": {
+        "$value": "none",
+        "$type": "textCase",
+        "$description": ""
+      }
+    },
+    "fontWeights": {
+      "h3": {
+        "$value": "400",
+        "$type": "fontWeights",
+        "$description": ""
+      },
+      "h4": {
+        "$value": "400 Italic",
+        "$type": "fontWeights",
+        "$description": ""
+      },
+      "body": {
+        "$value": "400",
+        "$type": "fontWeights",
+        "$description": ""
+      },
+      "h2": {
+        "$value": "400 Italic",
+        "$type": "fontWeights",
+        "$description": ""
+      },
+      "micro": {
+        "$value": "700",
+        "$type": "fontWeights",
+        "$description": ""
+      },
+      "lead": {
+        "$value": "400",
+        "$type": "fontWeights",
+        "$description": ""
+      },
+      "h1": {
+        "$value": "400",
+        "$type": "fontWeights",
+        "$description": ""
+      },
+      "caption": {
+        "$value": "400",
+        "$type": "fontWeights",
+        "$description": ""
+      }
+    },
+    "fontSizes": {
+      "h3": {
+        "$value": "44px",
+        "$type": "fontSizes",
+        "$description": ""
+      },
+      "h2": {
+        "$value": "56px",
+        "$type": "fontSizes",
+        "$description": ""
+      },
+      "h4": {
+        "$value": "34px",
+        "$type": "fontSizes",
+        "$description": ""
+      },
+      "lead": {
+        "$value": "15px",
+        "$type": "fontSizes",
+        "$description": ""
+      },
+      "h1": {
+        "$value": "211.2px",
+        "$type": "fontSizes",
+        "$description": ""
+      },
+      "caption": {
+        "$value": "12px",
+        "$type": "fontSizes",
+        "$description": ""
+      },
+      "micro": {
+        "$value": "11px",
+        "$type": "fontSizes",
+        "$description": ""
+      },
+      "body": {
+        "$value": "14px",
+        "$type": "fontSizes",
+        "$description": ""
+      }
+    },
+    "fontFamilies": {
+      "h3": {
+        "$value": [
+          "Instrument Serif"
+        ],
+        "$type": "fontFamilies",
+        "$description": ""
+      },
+      "h2": {
+        "$value": [
+          "Instrument Serif"
+        ],
+        "$type": "fontFamilies",
+        "$description": ""
+      },
+      "caption": {
+        "$value": [
+          "Helvetica Neue"
+        ],
+        "$type": "fontFamilies",
+        "$description": ""
+      },
+      "lead": {
+        "$value": [
+          "Work Sans"
+        ],
+        "$type": "fontFamilies",
+        "$description": ""
+      },
+      "body": {
+        "$value": [
+          "Work Sans"
+        ],
+        "$type": "fontFamilies",
+        "$description": ""
+      },
+      "micro": {
+        "$value": [
+          "Helvetica Neue"
+        ],
+        "$type": "fontFamilies",
+        "$description": ""
+      },
+      "h1": {
+        "$value": [
+          "Instrument Serif"
+        ],
+        "$type": "fontFamilies",
+        "$description": ""
+      },
+      "h4": {
+        "$value": [
+          "Instrument Serif"
+        ],
+        "$type": "fontFamilies",
+        "$description": ""
+      }
+    }
+  }
+}

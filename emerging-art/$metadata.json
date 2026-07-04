@@ -1,0 +1,21 @@
+{
+  "tokenSetOrder": [
+    "Foundation",
+    "tailwind-primitives",
+    "Theme config: Base",
+    "typography",
+    "custom-text",
+    "custom-colors"
+  ],
+  "activeThemes": [
+    "Always enabled/Global"
+  ],
+  "activeSets": [
+    "Theme config: Base",
+    "tailwind-primitives",
+    "custom-colors",
+    "Foundation",
+    "custom-text",
+    "typography"
+  ]
+}
