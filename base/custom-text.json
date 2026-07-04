@@ -225,6 +225,90 @@
         "$type": "fontFamilies",
         "$description": ""
       }
+    },
+    "textCase": {
+      "h1": {
+        "$value": "none",
+        "$type": "textCase",
+        "$description": ""
+      },
+      "h2": {
+        "$value": "none",
+        "$type": "textCase",
+        "$description": ""
+      },
+      "h3": {
+        "$value": "none",
+        "$type": "textCase",
+        "$description": ""
+      },
+      "h4": {
+        "$value": "none",
+        "$type": "textCase",
+        "$description": ""
+      },
+      "lead": {
+        "$value": "none",
+        "$type": "textCase",
+        "$description": ""
+      },
+      "body": {
+        "$value": "none",
+        "$type": "textCase",
+        "$description": ""
+      },
+      "caption": {
+        "$value": "none",
+        "$type": "textCase",
+        "$description": ""
+      },
+      "micro": {
+        "$value": "uppercase",
+        "$type": "textCase",
+        "$description": ""
+      }
+    },
+    "textDecoration": {
+      "h1": {
+        "$value": "none",
+        "$type": "textDecoration",
+        "$description": ""
+      },
+      "h2": {
+        "$value": "none",
+        "$type": "textDecoration",
+        "$description": ""
+      },
+      "h3": {
+        "$value": "none",
+        "$type": "textDecoration",
+        "$description": ""
+      },
+      "h4": {
+        "$value": "none",
+        "$type": "textDecoration",
+        "$description": ""
+      },
+      "lead": {
+        "$value": "none",
+        "$type": "textDecoration",
+        "$description": ""
+      },
+      "body": {
+        "$value": "none",
+        "$type": "textDecoration",
+        "$description": ""
+      },
+      "caption": {
+        "$value": "none",
+        "$type": "textDecoration",
+        "$description": ""
+      },
+      "micro": {
+        "$value": "none",
+        "$type": "textDecoration",
+        "$description": ""
+      }
     }
   }
 }

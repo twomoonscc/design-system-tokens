@@ -180,7 +180,9 @@
           "fontSizes": "{_custom_text.fontSizes.caption}",
           "fontWeights": "{_custom_text.fontWeights.caption}",
           "lineHeights": "{_custom_text.lineHeights.caption}",
-          "letterSpacing": "{_custom_text.letterSpacing.caption}"
+          "letterSpacing": "{_custom_text.letterSpacing.caption}",
+          "textCase": "{_custom_text.textCase.caption}",
+          "textDecoration": "{_custom_text.textDecoration.caption}"
         },
         "$type": "typography",
         "$description": ""
@@ -193,7 +195,9 @@
           "fontSizes": "{_custom_text.fontSizes.h4}",
           "fontWeights": "{_custom_text.fontWeights.h4}",
           "lineHeights": "{_custom_text.lineHeights.h4}",
-          "letterSpacing": "{_custom_text.letterSpacing.h4}"
+          "letterSpacing": "{_custom_text.letterSpacing.h4}",
+          "textCase": "{_custom_text.textCase.h4}",
+          "textDecoration": "{_custom_text.textDecoration.h4}"
         },
         "$type": "typography",
         "$description": ""
@@ -206,7 +210,9 @@
           "fontSizes": "{_custom_text.fontSizes.micro}",
           "fontWeights": "{_custom_text.fontWeights.micro}",
           "lineHeights": "{_custom_text.lineHeights.micro}",
-          "letterSpacing": "{_custom_text.letterSpacing.micro}"
+          "letterSpacing": "{_custom_text.letterSpacing.micro}",
+          "textCase": "{_custom_text.textCase.micro}",
+          "textDecoration": "{_custom_text.textDecoration.micro}"
         },
         "$type": "typography",
         "$description": ""
@@ -219,7 +225,9 @@
           "fontSizes": "{_custom_text.fontSizes.h3}",
           "fontWeights": "{_custom_text.fontWeights.h3}",
           "lineHeights": "{_custom_text.lineHeights.h3}",
-          "letterSpacing": "{_custom_text.letterSpacing.h3}"
+          "letterSpacing": "{_custom_text.letterSpacing.h3}",
+          "textCase": "{_custom_text.textCase.h3}",
+          "textDecoration": "{_custom_text.textDecoration.h3}"
         },
         "$type": "typography",
         "$description": ""
@@ -232,7 +240,9 @@
           "letterSpacing": "{_custom_text.letterSpacing.body}",
           "fontFamilies": [
             "{_custom_text.fontFamilies.body}"
-          ]
+          ],
+          "textCase": "{_custom_text.textCase.body}",
+          "textDecoration": "{_custom_text.textDecoration.body}"
         },
         "$type": "typography",
         "$description": ""
@@ -245,7 +255,9 @@
           "letterSpacing": "{_custom_text.letterSpacing.lead}",
           "fontFamilies": [
             "{_custom_text.fontFamilies.lead}"
-          ]
+          ],
+          "textCase": "{_custom_text.textCase.lead}",
+          "textDecoration": "{_custom_text.textDecoration.lead}"
         },
         "$type": "typography",
         "$description": ""
@@ -258,7 +270,9 @@
           "fontSizes": "{_custom_text.fontSizes.h2}",
           "fontWeights": "{_custom_text.fontWeights.h2}",
           "lineHeights": "{_custom_text.lineHeights.h2}",
-          "letterSpacing": "{_custom_text.letterSpacing.h2}"
+          "letterSpacing": "{_custom_text.letterSpacing.h2}",
+          "textCase": "{_custom_text.textCase.h2}",
+          "textDecoration": "{_custom_text.textDecoration.h2}"
         },
         "$type": "typography",
         "$description": ""
@@ -271,7 +285,9 @@
           "fontSizes": "{_custom_text.fontSizes.h1}",
           "fontWeights": "{_custom_text.fontWeights.h1}",
           "lineHeights": "{_custom_text.lineHeights.h1}",
-          "letterSpacing": "{_custom_text.letterSpacing.h1}"
+          "letterSpacing": "{_custom_text.letterSpacing.h1}",
+          "textCase": "{_custom_text.textCase.h1}",
+          "textDecoration": "{_custom_text.textDecoration.h1}"
         },
         "$type": "typography",
         "$description": ""
