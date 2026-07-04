@@ -12,7 +12,7 @@
         "$description": ""
       },
       "h4": {
-        "$value": "-0.22px",
+        "$value": "0px",
         "$type": "letterSpacing",
         "$description": ""
       },
@@ -22,17 +22,17 @@
         "$description": ""
       },
       "micro": {
-        "$value": "1.98px",
+        "$value": "1.54px",
         "$type": "letterSpacing",
         "$description": ""
       },
       "caption": {
-        "$value": "0.52px",
+        "$value": "0px",
         "$type": "letterSpacing",
         "$description": ""
       },
       "h3": {
-        "$value": "-0.36px",
+        "$value": "0px",
         "$type": "letterSpacing",
         "$description": ""
       },
@@ -44,12 +44,12 @@
     },
     "lineHeights": {
       "micro": {
-        "$value": "15px",
+        "$value": "13px",
         "$type": "dimension",
         "$description": ""
       },
       "h4": {
-        "$value": "31px",
+        "$value": "25px",
         "$type": "dimension",
         "$description": ""
       },
@@ -69,12 +69,12 @@
         "$description": ""
       },
       "caption": {
-        "$value": "18px",
+        "$value": "16px",
         "$type": "dimension",
         "$description": ""
       },
       "body": {
-        "$value": "25px",
+        "$value": "17px",
         "$type": "dimension",
         "$description": ""
       },
@@ -171,56 +171,56 @@
     "fontFamilies": {
       "body": {
         "$value": [
-          "Manrope"
+          "Helvetica Neue"
         ],
         "$type": "fontFamilies",
         "$description": ""
       },
       "h1": {
         "$value": [
-          "Manrope"
+          "Instrument Serif"
         ],
         "$type": "fontFamilies",
         "$description": ""
       },
       "caption": {
         "$value": [
-          "Manrope"
+          "Helvetica Neue"
         ],
         "$type": "fontFamilies",
         "$description": ""
       },
       "h2": {
         "$value": [
-          "Manrope"
+          "Instrument Serif"
         ],
         "$type": "fontFamilies",
         "$description": ""
       },
       "h3": {
         "$value": [
-          "Manrope"
+          "Instrument Serif"
         ],
         "$type": "fontFamilies",
         "$description": ""
       },
       "h4": {
         "$value": [
-          "Manrope"
+          "Instrument Serif"
         ],
         "$type": "fontFamilies",
         "$description": ""
       },
       "lead": {
         "$value": [
-          "Manrope"
+          "Helvetica Neue"
         ],
         "$type": "fontFamilies",
         "$description": ""
       },
       "micro": {
         "$value": [
-          "Manrope"
+          "Helvetica Neue"
         ],
         "$type": "fontFamilies",
         "$description": ""
